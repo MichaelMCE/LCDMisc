@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/66/trunk/LCD%20Miscellany/include/util
+END
+Time.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/LCD%20Miscellany/include/util/Time.c
+END
+http.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/LCD%20Miscellany/include/util/http.c
+END
+XML.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/LCD%20Miscellany/include/util/XML.c
+END
+Graphics.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/LCD%20Miscellany/include/util/Graphics.c
+END
+Audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/29/trunk/LCD%20Miscellany/include/util/Audio.c
+END
+html.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/LCD%20Miscellany/include/util/html.c
+END
+Text.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/66/trunk/LCD%20Miscellany/include/util/Text.c
+END
+CPUSaver.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/LCD%20Miscellany/include/util/CPUSaver.c
+END
+Shortcut.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/LCD%20Miscellany/include/util/Shortcut.c
+END
+G15.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/38/trunk/LCD%20Miscellany/include/util/G15.c
+END

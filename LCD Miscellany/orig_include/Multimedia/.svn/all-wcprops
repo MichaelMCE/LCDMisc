@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/52/trunk/LCD%20Miscellany/include/Multimedia
+END
+mpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/LCD%20Miscellany/include/Multimedia/mpc.c
+END
+MediaPlayerController.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/52/trunk/LCD%20Miscellany/include/Multimedia/MediaPlayerController.c
+END
+vlc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/52/trunk/LCD%20Miscellany/include/Multimedia/vlc.c
+END
+amip.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/LCD%20Miscellany/include/Multimedia/amip.c
+END
+itunes.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/LCD%20Miscellany/include/Multimedia/itunes.c
+END
+winamp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/36/trunk/LCD%20Miscellany/include/Multimedia/winamp.c
+END

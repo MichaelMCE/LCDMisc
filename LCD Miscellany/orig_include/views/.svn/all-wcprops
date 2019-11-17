@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/61/trunk/LCD%20Miscellany/include/views
+END
+ConfigView.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/LCD%20Miscellany/include/views/ConfigView.c
+END
+DownloadView.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/61/trunk/LCD%20Miscellany/include/views/DownloadView.c
+END
+RSSView.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/LCD%20Miscellany/include/views/RSSView.c
+END
+PidginView.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/LCD%20Miscellany/include/views/PidginView.c
+END
+CommandView.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/30/trunk/LCD%20Miscellany/include/views/CommandView.c
+END
+View.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/LCD%20Miscellany/include/views/View.c
+END
+MediaView.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/54/trunk/LCD%20Miscellany/include/views/MediaView.c
+END
+ChatView.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/LCD%20Miscellany/include/views/ChatView.c
+END
+SABnzbdView.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/56/trunk/LCD%20Miscellany/include/views/SABnzbdView.c
+END
+StatusView.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/LCD%20Miscellany/include/views/StatusView.c
+END
+JabberView.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/LCD%20Miscellany/include/views/JabberView.c
+END
+DualView.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/LCD%20Miscellany/include/views/DualView.c
+END
+CalculatorView.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/LCD%20Miscellany/include/views/CalculatorView.c
+END
+TextEditorView.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/48/trunk/LCD%20Miscellany/include/views/TextEditorView.c
+END
+ClipboardView.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/45/trunk/LCD%20Miscellany/include/views/ClipboardView.c
+END
+WeatherView.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/LCD%20Miscellany/include/views/WeatherView.c
+END
+TaskManager.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/47/trunk/LCD%20Miscellany/include/views/TaskManager.c
+END

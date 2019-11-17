@@ -1,0 +1,6 @@
+EXPORTS
+    _Z6UpdateP7LcdInfoP10BitmapInfo @1
+    _Z7DestroyP7LcdInfo @2
+    _Z7lcdEnumv @3
+    _Z7lcdInitP12LcdCallbacks @4
+    _Z9lcdUninitv @5

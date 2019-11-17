@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/14/trunk/src/ScriptProcs/Interface
+END
+MonitorScript.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/ScriptProcs/Interface/MonitorScript.h
+END
+MouseScript.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/ScriptProcs/Interface/MouseScript.h
+END
+MonitorScript.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/ScriptProcs/Interface/MonitorScript.cpp
+END
+MouseScript.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/src/ScriptProcs/Interface/MouseScript.cpp
+END

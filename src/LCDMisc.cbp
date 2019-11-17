@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="LCDMisc" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release x64">
+				<Option output="./../LCD Miscellany/LCDMisc64" prefix_auto="1" extension_auto="1" />
+				<Option object_output="../temp/Release x64" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-w" />
+					<Add option="-m64" />
+					<Add option="-fpermissive" />
+					<Add option="-mwindows" />
+					<Add option="-fms-extensions" />
+					<Add option="-ftree-vectorize" />
+					<Add option="-floop-interchange" />
+					<Add option="-floop-strip-mine" />
+					<Add option="-floop-block" />
+					<Add option="-funsafe-loop-optimizations" />
+					<Add option="-fno-signed-zeros" />
+					<Add option="-minline-all-stringops" />
+					<Add option="-Wlarger-than=131072" />
+					<Add option="-Wno-cpp" />
+					<Add option="-Wno-error=unused-parameter" />
+					<Add option="-Wno-error=sign-compare" />
+					<Add option="-Wno-unused-parameter" />
+					<Add option="-Wno-sign-compare" />
+					<Add option="-mfpmath=sse,387" />
+					<Add option="-m3dnow" />
+					<Add option="-msse2" />
+					<Add option="-msse" />
+					<Add option="-mmmx" />
+					<Add option="-std=gnu11" />
+					<Add option="-fno-strict-aliasing" />
+					<Add option="-fno-exceptions" />
+					<Add option="-fgnu89-inline" />
+					<Add option="-Werror" />
+					<Add option="-funroll-loops" />
+					<Add option="-finline-functions" />
+					<Add option="-ftree-vectorizer-verbose=0" />
+					<Add option="-fvariable-expansion-in-unroller" />
+					<Add option="-ftree-loop-distribution" />
+					<Add option="-fno-math-errno" />
+					<Add option="-ffast-math" />
+					<Add option="-s" />
+					<Add option="-pipe" />
+					<Add option="-fgcse-las" />
+					<Add option="-fgcse-sm" />
+					<Add option="-fgcse-lm" />
+					<Add option="-fmodulo-sched-allow-regmoves" />
+					<Add option="-fmodulo-sched" />
+					<Add option="-DUNICODE=1" />
+					<Add option="-D_WIN64=1" />
+					<Add option="-DWIN64=1" />
+					<Add option="-DWIN64" />
+					<Add option="-DNDEBUG" />
+					<Add option="-D_WINDOWS" />
+					<Add option="-DINITGUID" />
+					<Add option="-DUSE___UUIDOF=1" />
+					<Add option="-D_CRT_NONSTDC_NO_DEPRECATE" />
+					<Add option="-D_CRT_SECURE_NO_DEPRECATE" />
+					<Add option="-D_CRT_DISABLE_PERFCRIT_LOCKS" />
+					<Add option="-DPSAPI_VERSION=1" />
+					<Add option="-D__MSVCRT_VERSION__=0x0601" />
+					<Add option="-D_WIN32_WINDOWS=0x0700" />
+					<Add option="-D_WIN32_IE=0x0603" />
+					<Add option="-D_WIN32_WINNT=0x0601" />
+					<Add option="-D_UNICODE=1" />
+					<Add option="-DWINVER=0x610" />
+					<Add option="-DX64" />
+					<Add option="-D_MSC_VER=0x610" />
+					<Add option="-D_WIN32_WINNT=0x610" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-m64" />
+					<Add library="oleaut32" />
+					<Add library="Advapi32" />
+					<Add library="gdi32" />
+					<Add library="Ole32" />
+					<Add library="User32" />
+					<Add library="pdh" />
+					<Add library="Winmm" />
+					<Add library="Vfw32" />
+					<Add library="Ws2_32" />
+					<Add library="Strmiids" />
+					<Add library="shell32" />
+					<Add library="Iphlpapi" />
+					<Add library="Psapi" />
+					<Add library="Setupapi" />
+					<Add library="hid" />
+					<Add library="hidclass" />
+					<Add library="hidparse" />
+					<Add library="ddraw" />
+					<Add library="comctl32" />
+					<Add library="stdc++" />
+					<Add library="m" />
+					<Add library="msvcrt" />
+					<Add library="uuid" />
+				</Linker>
+			</Target>
+			<Target title="Release Win32">
+				<Option output="./../LCD Miscellany/LCDMisc" prefix_auto="1" extension_auto="1" />
+				<Option object_output="../temp/Release x32" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-march=k8" />
+					<Add option="-fomit-frame-pointer" />
+					<Add option="-fexpensive-optimizations" />
+					<Add option="-O1" />
+					<Add option="-w" />
+					<Add option="-m32" />
+					<Add option="-fpermissive" />
+					<Add option="-mwindows" />
+					<Add option="-m3dnow" />
+					<Add option="-msse2" />
+					<Add option="-msse" />
+					<Add option="-mmmx" />
+					<Add option="-fgnu89-inline" />
+					<Add option="-Werror" />
+					<Add option="-s" />
+					<Add option="-pipe" />
+					<Add option="-finline-functions" />
+					<Add option="-fno-math-errno" />
+					<Add option="-ffast-math" />
+					<Add option="-Wlarger-than=131072" />
+					<Add option="-Wno-error=unused-parameter" />
+					<Add option="-Wno-error=sign-compare" />
+					<Add option="-Wno-unused-parameter" />
+					<Add option="-mfpmath=sse,387" />
+					<Add option="-DWIN32" />
+					<Add option="-D_WIN32" />
+					<Add option="-DUSE_3DNOW" />
+					<Add option="-DHAVE_3DNOW" />
+					<Add option="-DHAVE_SSE2" />
+					<Add option="-DUSE_SSE2" />
+					<Add option="-DUSE_MMX2" />
+					<Add option="-DHAVE_MMX2" />
+					<Add option="-DUSE_SSE -DHAVE_SSE" />
+					<Add option="-DHAVE_MMX" />
+					<Add option="-DUSE_MMX" />
+					<Add option="-D__MSVCRT_VERSION__=0x0601" />
+					<Add option="-D_WIN32_WINDOWS=0x0700" />
+					<Add option="-D_WIN32_IE=0x0603" />
+					<Add option="-D_WIN32_WINNT=0x0601" />
+					<Add option="-DWINVER=0x0601" />
+					<Add option="-DNDEBUG" />
+					<Add option="-D_WINDOWS" />
+					<Add option="-D_CRT_NONSTDC_NO_DEPRECATE" />
+					<Add option="-D_CRT_SECURE_NO_DEPRECATE" />
+					<Add option="-D_CRT_DISABLE_PERFCRIT_LOCKS" />
+					<Add option="-D_UNICODE=1" />
+					<Add option="-DUNICODE=1" />
+					<Add option="-D_MSC_VER=0x610" />
+					<Add option="-D_WIN32_WINNT=0x610" />
+					<Add option="-DWINVER=0x610" />
+					<Add option="-D_WINVER=0x610" />
+					<Add option="-D__WIN32__=1" />
+					<Add option="-D__MSVCRT_VERSION__=0x610" />
+					<Add option="-DINITGUID" />
+					<Add option="-DUSE___UUIDOF=1" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-m32" />
+					<Add library="oleaut32" />
+					<Add library="mingw32" />
+					<Add library="winmm" />
+					<Add library="Advapi32" />
+					<Add library="gdi32" />
+					<Add library="Ole32" />
+					<Add library="User32" />
+					<Add library="pdh" />
+					<Add library="Ws2_32" />
+					<Add library="Strmiids" />
+					<Add library="shell32" />
+					<Add library="Iphlpapi" />
+					<Add library="m" />
+					<Add library="Psapi" />
+					<Add library="Setupapi" />
+					<Add library="hid" />
+					<Add library="hidclass" />
+					<Add library="hidparse" />
+					<Add library="ddraw" />
+					<Add library="comctl32" />
+					<Add library="uuid" />
+					<Add library="stdc++" />
+				</Linker>
+				<ExtraCommands>
+					<Add before="resupdate.bat" />
+				</ExtraCommands>
+			</Target>
+		</Build>
+		<Unit filename="Config.cpp" />
+		<Unit filename="Config.h" />
+		<Unit filename="Device.cpp" />
+		<Unit filename="Device.h" />
+		<Unit filename="FileReader.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="FileReader.h" />
+		<Unit filename="G15Util/G15HID.cpp" />
+		<Unit filename="G15Util/G15HID.h" />
+		<Unit filename="GenCode.cpp" />
+		<Unit filename="GenCode.h" />
+		<Unit filename="HashTable.cpp" />
+		<Unit filename="HashTable.h" />
+		<Unit filename="Images/Image.cpp" />
+		<Unit filename="Images/Image.h" />
+		<Unit filename="Images/bmp.cpp" />
+		<Unit filename="Images/bmp.h" />
+		<Unit filename="Images/gif.cpp" />
+		<Unit filename="Images/gif.h" />
+		<Unit filename="Images/inflate.cpp" />
+		<Unit filename="Images/inflate.h" />
+		<Unit filename="Images/jpg.cpp" />
+		<Unit filename="Images/jpg.h" />
+		<Unit filename="Images/png.cpp" />
+		<Unit filename="Images/png.h" />
+		<Unit filename="Images/psd.cpp" />
+		<Unit filename="Images/stackblur.cpp" />
+		<Unit filename="Images/tga.cpp" />
+		<Unit filename="Images/tga.h" />
+		<Unit filename="LCDMisc.cpp" />
+		<Unit filename="LCDMisc.rc">
+			<Option compilerVar="WINDRES" />
+			<Option compile="0" />
+			<Option compiler="gcc" use="0" buildCommand="WINDRES.exe  --output-format=coff --target=pe-i386 LCDMisc.rc LCDMisc.res " />
+		</Unit>
+		<Unit filename="Network.cpp" />
+		<Unit filename="Network.h" />
+		<Unit filename="Parser.cpp" />
+		<Unit filename="Parser.h" />
+		<Unit filename="PerfMon.cpp" />
+		<Unit filename="PerfMon.h" />
+		<Unit filename="Screen.cpp" />
+		<Unit filename="Screen.h" />
+		<Unit filename="Script.cpp" />
+		<Unit filename="Script.h" />
+		<Unit filename="ScriptEnums.h" />
+		<Unit filename="ScriptObjects/CommandPromptProcess.cpp" />
+		<Unit filename="ScriptObjects/CommandPromptProcess.h" />
+		<Unit filename="ScriptObjects/File.cpp" />
+		<Unit filename="ScriptObjects/File.h" />
+		<Unit filename="ScriptObjects/MediaFile.cpp" />
+		<Unit filename="ScriptObjects/MediaFile.h" />
+		<Unit filename="ScriptObjects/MiniObjects.cpp" />
+		<Unit filename="ScriptObjects/MiniObjects.h" />
+		<Unit filename="ScriptObjects/MutableString.cpp" />
+		<Unit filename="ScriptObjects/MutableString.h" />
+		<Unit filename="ScriptObjects/PerfCounter.cpp" />
+		<Unit filename="ScriptObjects/PerfCounter.h" />
+		<Unit filename="ScriptObjects/ScriptFont.cpp" />
+		<Unit filename="ScriptObjects/ScriptFont.h" />
+		<Unit filename="ScriptObjects/ScriptImage.cpp" />
+		<Unit filename="ScriptObjects/ScriptImage.h" />
+		<Unit filename="ScriptObjects/ScriptObjects.cpp" />
+		<Unit filename="ScriptObjects/ScriptObjects.h" />
+		<Unit filename="ScriptObjects/Socket.cpp" />
+		<Unit filename="ScriptObjects/Socket.h" />
+		<Unit filename="ScriptObjects/SysTrayIcon.cpp" />
+		<Unit filename="ScriptObjects/SysTrayIcon.h" />
+		<Unit filename="ScriptObjects/WMI.cpp" />
+		<Unit filename="ScriptObjects/WMI.h" />
+		<Unit filename="ScriptProcs/Audio.cpp">
+			<Option weight="14" />
+		</Unit>
+		<Unit filename="ScriptProcs/Audio.h" />
+		<Unit filename="ScriptProcs/Event/Event.cpp" />
+		<Unit filename="ScriptProcs/Event/Event.h" />
+		<Unit filename="ScriptProcs/Event/Keyboard.cpp" />
+		<Unit filename="ScriptProcs/Event/Keyboard.h" />
+		<Unit filename="ScriptProcs/File.cpp" />
+		<Unit filename="ScriptProcs/File.h" />
+		<Unit filename="ScriptProcs/G15/G15Script.cpp" />
+		<Unit filename="ScriptProcs/G15/G15Script.h" />
+		<Unit filename="ScriptProcs/InterProcess/DDE.cpp" />
+		<Unit filename="ScriptProcs/InterProcess/DDE.h" />
+		<Unit filename="ScriptProcs/InterProcess/DllTypes.h" />
+		<Unit filename="ScriptProcs/InterProcess/ScriptDll.cpp" />
+		<Unit filename="ScriptProcs/InterProcess/ScriptDll.h" />
+		<Unit filename="ScriptProcs/InterProcess/ScriptProcessManagement.cpp" />
+		<Unit filename="ScriptProcs/InterProcess/ScriptProcessManagement.h" />
+		<Unit filename="ScriptProcs/InterProcess/ScriptSharedMemory.cpp" />
+		<Unit filename="ScriptProcs/InterProcess/ScriptSharedMemory.h" />
+		<Unit filename="ScriptProcs/InterProcess/ScriptWindowManagement.cpp" />
+		<Unit filename="ScriptProcs/InterProcess/ScriptWindowManagement.h" />
+		<Unit filename="ScriptProcs/Interface/MonitorScript.cpp" />
+		<Unit filename="ScriptProcs/Interface/MonitorScript.h" />
+		<Unit filename="ScriptProcs/Interface/MouseScript.cpp" />
+		<Unit filename="ScriptProcs/Interface/MouseScript.h" />
+		<Unit filename="ScriptProcs/ScriptDrawing.cpp" />
+		<Unit filename="ScriptProcs/ScriptDrawing.h" />
+		<Unit filename="ScriptProcs/ScriptMisc.cpp" />
+		<Unit filename="ScriptProcs/ScriptMisc.h" />
+		<Unit filename="ScriptProcs/ScriptProcs.cpp" />
+		<Unit filename="ScriptProcs/ScriptProcs.h" />
+		<Unit filename="ScriptProcs/Time/ScriptTime.cpp" />
+		<Unit filename="ScriptProcs/Time/ScriptTime.h" />
+		<Unit filename="ScriptProcs/Time/ScriptTimer.cpp" />
+		<Unit filename="ScriptProcs/Time/ScriptTimer.h" />
+		<Unit filename="ScriptProcs/Time/ScriptWait.cpp" />
+		<Unit filename="ScriptProcs/Time/ScriptWait.h" />
+		<Unit filename="ScriptProcs/Util/BencodeScript.cpp" />
+		<Unit filename="ScriptProcs/Util/BencodeScript.h" />
+		<Unit filename="ScriptProcs/Util/List.cpp" />
+		<Unit filename="ScriptProcs/Util/List.h" />
+		<Unit filename="ScriptProcs/Util/Math.cpp" />
+		<Unit filename="ScriptProcs/Util/Math.h" />
+		<Unit filename="ScriptProcs/Util/RegExp.cpp" />
+		<Unit filename="ScriptProcs/Util/RegExp.h" />
+		<Unit filename="ScriptProcs/Util/ScriptStringParser.cpp" />
+		<Unit filename="ScriptProcs/Util/ScriptStringParser.h" />
+		<Unit filename="ScriptProcs/Util/ScriptTypes.cpp" />
+		<Unit filename="ScriptProcs/Util/ScriptTypes.h" />
+		<Unit filename="ScriptProcs/networking/ScriptEmail.cpp" />
+		<Unit filename="ScriptProcs/networking/ScriptEmail.h" />
+		<Unit filename="ScriptProcs/networking/ScriptIP.cpp" />
+		<Unit filename="ScriptProcs/networking/ScriptIP.h" />
+		<Unit filename="ScriptProcs/serial.cpp" />
+		<Unit filename="ScriptValue.cpp" />
+		<Unit filename="ScriptValue.h" />
+		<Unit filename="ShortCut.cpp" />
+		<Unit filename="ShortCut.h" />
+		<Unit filename="SymbolTable.cpp" />
+		<Unit filename="SymbolTable.h" />
+		<Unit filename="TempCode.cpp" />
+		<Unit filename="TempCode.h" />
+		<Unit filename="Timer.cpp" />
+		<Unit filename="Timer.h" />
+		<Unit filename="Tokenizer.cpp" />
+		<Unit filename="Tokenizer.h" />
+		<Unit filename="frog.ico" />
+		<Unit filename="global.h" />
+		<Unit filename="globals.h" />
+		<Unit filename="http/httpGetPage.cpp" />
+		<Unit filename="http/httpGetPage.h" />
+		<Unit filename="malloc.cpp" />
+		<Unit filename="malloc.h" />
+		<Unit filename="plugin/plugin.h" />
+		<Unit filename="plugin/plugins.cpp" />
+		<Unit filename="plugin/plugins.h" />
+		<Unit filename="resource.h" />
+		<Unit filename="sdk/nvapi.h" />
+		<Unit filename="sdk/v1.03/lglcd.h" />
+		<Unit filename="sdk/v3.01/lglcd.h" />
+		<Unit filename="stringUtil.cpp" />
+		<Unit filename="stringUtil.h" />
+		<Unit filename="unicode.cpp" />
+		<Unit filename="unicode.h" />
+		<Unit filename="util.cpp" />
+		<Unit filename="util.h" />
+		<Unit filename="vm.cpp" />
+		<Unit filename="vm.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

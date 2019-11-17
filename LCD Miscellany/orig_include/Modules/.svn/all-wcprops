@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/48/trunk/LCD%20Miscellany/include/Modules
+END
+LineEditor.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/LCD%20Miscellany/include/Modules/LineEditor.c
+END
+Chat.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/LCD%20Miscellany/include/Modules/Chat.c
+END
+Graph.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/LCD%20Miscellany/include/Modules/Graph.c
+END
+FileBrowser.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/47/trunk/LCD%20Miscellany/include/Modules/FileBrowser.c
+END
+DriveInfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/LCD%20Miscellany/include/Modules/DriveInfo.c
+END
+SysTrayIcons.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/LCD%20Miscellany/include/Modules/SysTrayIcons.c
+END
+CounterManager.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/LCD%20Miscellany/include/Modules/CounterManager.c
+END
+TextEditor.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/48/trunk/LCD%20Miscellany/include/Modules/TextEditor.c
+END

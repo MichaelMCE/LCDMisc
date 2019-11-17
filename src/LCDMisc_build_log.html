@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>LCDMisc build log</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
+<body>
+<tt>
+Build started on: <u>09-11-2019 at 21:08.15</u><br />
+Build ended on: <u>09-11-2019 at 21:08.17</u><p />
+<b>-------------- Build: Release x64 in LCDMisc (compiler: GNU GCC Compiler)---------------</b><br />
+g++.exe -O2 -w -m64 -fpermissive -mwindows -fms-extensions -ftree-vectorize -floop-interchange -floop-strip-mine -floop-block -funsafe-loop-optimizations -fno-signed-zeros -minline-all-stringops -Wlarger-than=131072 -Wno-cpp -Wno-error=unused-parameter -Wno-error=sign-compare -Wno-unused-parameter -Wno-sign-compare -mfpmath=sse,387 -m3dnow -msse2 -msse -mmmx -fno-strict-aliasing -fno-exceptions -fgnu89-inline -Werror -funroll-loops -finline-functions -ftree-vectorizer-verbose=0 -fvariable-expansion-in-unroller -ftree-loop-distribution -fno-math-errno -ffast-math -s -pipe -fgcse-las -fgcse-sm -fgcse-lm -fmodulo-sched-allow-regmoves -fmodulo-sched -DUNICODE=1 -D_WIN64=1 -DWIN64=1 -DWIN64 -DNDEBUG -D_WINDOWS -DINITGUID -DUSE___UUIDOF=1 -D_CRT_NONSTDC_NO_DEPRECATE -D_CRT_SECURE_NO_DEPRECATE -D_CRT_DISABLE_PERFCRIT_LOCKS -DPSAPI_VERSION=1 -D__MSVCRT_VERSION__=0x0601 -D_WIN32_WINDOWS=0x0700 -D_WIN32_IE=0x0603 -D_WIN32_WINNT=0x0601 -D_UNICODE=1 -DWINVER=0x610 -DX64 -D_MSC_VER=0x610 -D_WIN32_WINNT=0x610  -IK:\code\LCDMisc\src\ScriptProcs -IK:\code\LCDMisc\src -c K:\code\LCDMisc\src\ScriptProcs\Audio.cpp -o "..\temp\Release x64\ScriptProcs\Audio.o"<br />
+In file included from R:/MinGW/x86_64-w64-mingw32/include/combaseapi.h:154,<br />
+                 from R:/MinGW/x86_64-w64-mingw32/include/objbase.h:14,<br />
+                 from R:/MinGW/x86_64-w64-mingw32/include/ole2.h:17,<br />
+                 from R:/MinGW/x86_64-w64-mingw32/include/wtypes.h:12,<br />
+                 from R:/MinGW/x86_64-w64-mingw32/include/winscard.h:10,<br />
+                 from R:/MinGW/x86_64-w64-mingw32/include/windows.h:97,<br />
+                 from R:/MinGW/x86_64-w64-mingw32/include/rpc.h:16,<br />
+                 from R:/MinGW/x86_64-w64-mingw32/include/wtypes.h:7,<br />
+                 from K:/code/LCDMisc/src/ScriptValue.h:8,<br />
+                 from K:\code\LCDMisc\src\ScriptProcs\Audio.h:1,<br />
+                 from K:\code\LCDMisc\src\ScriptProcs\Audio.cpp:4:<br />
+R:/MinGW/x86_64-w64-mingw32/include/unknwnbase.h: In member function 'HRESULT IUnknown::QueryInterface(Q**)':<br />
+<font color="#ff0000">R:/MinGW/x86_64-w64-mingw32/include/unknwnbase.h:74:39: error: expected primary-expression before ')' token</font><br />
+       return QueryInterface(__uuidof(Q), (void **)pp);<br />
+                                       ^<br />
+In file included from R:/MinGW/x86_64-w64-mingw32/include/urlmon.h:289,<br />
+                 from R:/MinGW/x86_64-w64-mingw32/include/objbase.h:163,<br />
+                 from R:/MinGW/x86_64-w64-mingw32/include/ole2.h:17,<br />
+                 from R:/MinGW/x86_64-w64-mingw32/include/wtypes.h:12,<br />
+                 from R:/MinGW/x86_64-w64-mingw32/include/winscard.h:10,<br />
+                 from R:/MinGW/x86_64-w64-mingw32/include/windows.h:97,<br />
+                 from R:/MinGW/x86_64-w64-mingw32/include/rpc.h:16,<br />
+                 from R:/MinGW/x86_64-w64-mingw32/include/wtypes.h:7,<br />
+                 from K:/code/LCDMisc/src/ScriptValue.h:8,<br />
+                 from K:\code\LCDMisc\src\ScriptProcs\Audio.h:1,<br />
+                 from K:\code\LCDMisc\src\ScriptProcs\Audio.cpp:4:<br />
+R:/MinGW/x86_64-w64-mingw32/include/servprov.h: In member function 'HRESULT IServiceProvider::QueryService(const GUID&amp;, Q**)':<br />
+<font color="#ff0000">R:/MinGW/x86_64-w64-mingw32/include/servprov.h:66:46: error: expected primary-expression before ')' token</font><br />
+   return QueryService(guidService, __uuidof(Q), (void **)pp);<br />
+                                              ^<br />
+<font color="#a00000">Process terminated with status 1 (0 minute(s), 2 second(s))</font><br />
+<font color="#a00000">2 error(s), 0 warning(s) (0 minute(s), 2 second(s))</font><br />
+</tt>
+</body>
+</html>

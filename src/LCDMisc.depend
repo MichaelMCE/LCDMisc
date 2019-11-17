@@ -1,0 +1,3810 @@
+# depslib dependency file v1.0
+1431919512 source:r:\msys\home\a\lcdmiscellany-read-only\src\config.cpp
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<strings.h>
+	<wchar.h>
+	"global.h"
+	"Config.h"
+	"Unicode.h"
+	"stringUtil.h"
+	<stdarg.h>
+	"util.h"
+	"malloc.h"
+	<commctrl.h>
+	<math.h>
+
+1398325885 r:\msys\home\a\lcdmiscellany-read-only\src\global.h
+	<windows.h>
+	"globals.h"
+	"resource.h"
+
+1341863524 r:\msys\home\a\lcdmiscellany-read-only\src\globals.h
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\resource.h
+
+1394967130 r:\msys\home\a\lcdmiscellany-read-only\src\config.h
+	<stdio.h>
+	<wchar.h>
+	<string.h>
+	<stdarg.h>
+	"ScriptValue.h"
+
+1389490315 r:\msys\home\a\lcdmiscellany-read-only\src\scriptvalue.h
+	<wtypes.h>
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\unicode.h
+
+1389485343 r:\msys\home\a\lcdmiscellany-read-only\src\stringutil.h
+	<string.h>
+
+1398326314 r:\msys\home\a\lcdmiscellany-read-only\src\util.h
+	"global.h"
+	"FileReader.h"
+	<shlobj.h>
+	<stdio.h>
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\filereader.h
+
+1394913328 r:\msys\home\a\lcdmiscellany-read-only\src\malloc.h
+	<malloc.h>
+	<inttypes.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+
+1398196627 source:r:\msys\home\a\lcdmiscellany-read-only\src\device.cpp
+	"global.h"
+	"Device.h"
+	<time.h>
+	<stdio.h>
+	"sdk/v3.01/lgLcd.h"
+	"StringUtil.h"
+	"timer.h"
+	<inttypes.h>
+	<stdlib.h>
+	<string.h>
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\device.h
+	"Images/Image.h"
+	"ScriptValue.h"
+	"Screen.h"
+
+1395433949 r:\msys\home\a\lcdmiscellany-read-only\src\images\image.h
+	"..\\ScriptValue.h"
+	<math.h>
+
+1389490315 r:\msys\home\a\lcdmiscellany-read-only\src\\scriptvalue.h
+	<wtypes.h>
+
+1395922121 r:\msys\home\a\lcdmiscellany-read-only\src\screen.h
+	"global.h"
+	"Images/image.h"
+
+1242985702 r:\msys\home\a\lcdmiscellany-read-only\src\sdk\v3.01\lglcd.h
+	<windows.h>
+
+1389486442 r:\msys\home\a\lcdmiscellany-read-only\src\timer.h
+	<time.h>
+	<windows.h>
+
+1394920938 source:r:\msys\home\a\lcdmiscellany-read-only\src\filereader.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"FileReader.h"
+
+1394914193 source:r:\msys\home\a\lcdmiscellany-read-only\src\g15util\g15hid.cpp
+	"../global.h"
+	"G15HID.h"
+	"../malloc.h"
+	<Setupapi.h>
+	"../Screen.h"
+	"../StringUtil.h"
+	"../Unicode.h"
+	"../ScriptProcs/Event/Event.h"
+	<ddk/hidsdi.h>
+	"../global.h"
+
+1394914181 r:\msys\home\a\lcdmiscellany-read-only\src\g15util\g15hid.h
+	"../sdk/v3.01/lglcd.h"
+	"../ScriptValue.h"
+	"../Device.h"
+
+1398324028 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\event\event.h
+	"../../vm.h"
+	"../../ScriptValue.h"
+
+1397473901 r:\msys\home\a\lcdmiscellany-read-only\src\vm.h
+	"ScriptEnums.h"
+	"ScriptValue.h"
+	"SymbolTable.h"
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\scriptenums.h
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\symboltable.h
+	"ScriptValue.h"
+	"ScriptEnums.h"
+	"HashTable.h"
+	"malloc.h"
+	"stringUtil.h"
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\hashtable.h
+	"ScriptValue.h"
+
+1289398213 source:r:\msys\home\a\lcdmiscellany-read-only\src\gencode.cpp
+	<stdio.h>
+	<stdlib.h>
+	"GenCode.h"
+	"ScriptObjects/ScriptObjects.h"
+	"TempCode.h"
+	"Script.h"
+	"Config.h"
+	"vm.h"
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\gencode.h
+	"ScriptEnums.h"
+
+1341866258 r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\scriptobjects.h
+	"../ScriptValue.h"
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\tempcode.h
+	"ScriptEnums.h"
+	"ScriptValue.h"
+
+1395770741 r:\msys\home\a\lcdmiscellany-read-only\src\script.h
+	"vm.h"
+	"SymbolTable.h"
+	"ScriptEnums.h"
+
+1289398213 source:r:\msys\home\a\lcdmiscellany-read-only\src\hashtable.cpp
+	"HashTable.h"
+	"malloc.h"
+	"stringUtil.h"
+
+1395440949 source:r:\msys\home\a\lcdmiscellany-read-only\src\images\image.cpp
+	"malloc.h"
+	<stdlib.h>
+	"Image.h"
+	"../stringUtil.h"
+	"../Screen.h"
+	"../Util.h"
+	"../unicode.h"
+	"Image.h"
+	"BMP.h"
+	"tga.h"
+	"jpg.h"
+	"gif.h"
+	"png.h"
+	"psd.h"
+	"stackblur.h"
+
+1395920989 r:\msys\home\a\lcdmiscellany-read-only\src\images\bmp.h
+	<stdio.h>
+	"image.h"
+	"../ScriptValue.h"
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\images\tga.h
+	"Image.h"
+	"../ScriptValue.h"
+	<stdio.h>
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\images\jpg.h
+	"image.h"
+	"../ScriptValue.h"
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\images\gif.h
+	"Image.h"
+	"..\Script.h"
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\images\png.h
+	"Image.h"
+	"../ScriptValue.h"
+
+1395924719 source:r:\msys\home\a\lcdmiscellany-read-only\src\images\bmp.cpp
+	<inttypes.h>
+	<stdlib.h>
+	<string.h>
+	"bmp.h"
+	"util.h"
+	<windows.h>
+	<malloc.h>
+
+1289398213 source:r:\msys\home\a\lcdmiscellany-read-only\src\images\gif.cpp
+	"gif.h"
+	"..\\malloc.h"
+	<string.h>
+
+1394913328 r:\msys\home\a\lcdmiscellany-read-only\src\\malloc.h
+	<malloc.h>
+	<inttypes.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+
+1289398213 source:r:\msys\home\a\lcdmiscellany-read-only\src\images\inflate.cpp
+	"inflate.h"
+	"../malloc.h"
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\images\inflate.h
+	"..\global.h"
+	<malloc.h>
+
+1389485671 source:r:\msys\home\a\lcdmiscellany-read-only\src\images\jpg.cpp
+	"jpg.h"
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"..\\malloc.h"
+
+1395919543 source:r:\msys\home\a\lcdmiscellany-read-only\src\images\png.cpp
+	"png.h"
+	"inflate.h"
+	"../malloc.h"
+	<string.h>
+
+1289398213 source:r:\msys\home\a\lcdmiscellany-read-only\src\images\tga.cpp
+	"tga.h"
+	"..\\malloc.h"
+	<string.h>
+
+1398325939 source:r:\msys\home\a\lcdmiscellany-read-only\src\lcdmisc.cpp
+	<windows.h>
+	<dbt.h>
+	<shlobj.h>
+	<initguid.h>
+	"global.h"
+	"Device.h"
+	"http/httpGetPage.h"
+	"stringUtil.h"
+	"ScriptObjects/ScriptObjects.h"
+	"ScriptObjects/MediaFile.h"
+	"ScriptObjects/Socket.h"
+	"ScriptProcs/ScriptMisc.h"
+	"G15Util/G15HID.h"
+	"util.h"
+	"ScriptObjects/SysTrayIcon.h"
+	"plugin/plugins.h"
+	"Timer.h"
+	"Screen.h"
+	"Config.h"
+	"PerfMon.h"
+	"Network.h"
+	"ShortCut.h"
+	"vm.h"
+	"ScriptProcs/networking/ScriptIP.h"
+	"ScriptProcs/Event/Event.h"
+	"ScriptProcs/Event/Keyboard.h"
+	"ScriptProcs/Audio.h"
+	"Script.h"
+
+1289398211 r:\msys\home\a\lcdmiscellany-read-only\src\http\httpgetpage.h
+	"../Network.h"
+
+1394909267 r:\msys\home\a\lcdmiscellany-read-only\src\network.h
+	"global.h"
+	<Winsock2.h>
+	<Ws2tcpip.h>
+	<inttypes.h>
+	<stdlib.h>
+	<string.h>
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\mediafile.h
+	"..\\ScriptValue.h"
+
+1394908534 r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\socket.h
+	"../ScriptValue.h"
+	"../vm.h"
+
+1397078264 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\scriptmisc.h
+	"..\\ScriptValue.h"
+
+1389486409 r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\systrayicon.h
+	<stdlib.h>
+	"../ScriptValue.h"
+	"../Device.h"
+	"../unicode.h"
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\plugin\plugins.h
+	"../global.h"
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\perfmon.h
+	"ScriptValue.h"
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\shortcut.h
+	"global.h"
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\networking\scriptip.h
+	"../../ScriptValue.h"
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\event\keyboard.h
+	"../../ScriptValue.h"
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\audio.h
+	"../ScriptValue.h"
+
+1395012950 source:r:\msys\home\a\lcdmiscellany-read-only\src\lcdmisc.rc
+	"resource.h"
+
+1389485693 source:r:\msys\home\a\lcdmiscellany-read-only\src\network.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stringUtil.h"
+	"Network.h"
+	"malloc.h"
+	"Unicode.h"
+	<Ws2tcpip.h>
+
+1289398213 source:r:\msys\home\a\lcdmiscellany-read-only\src\parser.cpp
+	"Parser.h"
+	"Tokenizer.h"
+	"malloc.h"
+	"config.h"
+
+1341868041 r:\msys\home\a\lcdmiscellany-read-only\src\parser.h
+	"ScriptEnums.h"
+	<wtypes.h>
+
+1368616093 r:\msys\home\a\lcdmiscellany-read-only\src\tokenizer.h
+	<wtypes.h>
+	"ScriptEnums.h"
+	"Unicode.h"
+
+1394909792 source:r:\msys\home\a\lcdmiscellany-read-only\src\perfmon.cpp
+	"PerfMon.h"
+	"global.h"
+	<float.h>
+	"malloc.h"
+	"Unicode.h"
+	"Config.h"
+	<math.h>
+	<ntdddisk.h>
+	<winperf.h>
+	<Winsock2.h>
+	<Ws2tcpip.h>
+	<iphlpapi.h>
+
+1396122598 source:r:\msys\home\a\lcdmiscellany-read-only\src\screen.cpp
+	<stdlib.h>
+	<stdio.h>
+	"ScriptObjects/ScriptFont.h"
+	"Screen.h"
+	"Unicode.h"
+	"images/Images.h"
+	"stringUtil.h"
+	<math.h>
+	<xmmintrin.h>
+	<stdio.h>
+
+1389485715 r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\scriptfont.h
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"../global.h"
+	"../ScriptValue.h"
+	"../Images/image.h"
+
+1397474013 source:r:\msys\home\a\lcdmiscellany-read-only\src\script.cpp
+	"global.h"
+	"Script.h"
+	"Tokenizer.h"
+	"Parser.h"
+	"TempCode.h"
+	"GenCode.h"
+	"util.h"
+	"Config.h"
+	"vm.h"
+	"ScriptProcs\\ScriptProcs.h"
+	"ScriptObjects\\ScriptObjects.h"
+	"ScriptObjects\\WMI.h"
+	"unicode.h"
+	"ScriptValue.h"
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\\scriptprocs.h
+
+1341866258 r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\\scriptobjects.h
+	"../ScriptValue.h"
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\\wmi.h
+	"../ScriptValue.h"
+
+1389485723 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\commandpromptprocess.cpp
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"CommandPromptProcess.h"
+	"../global.h"
+	<shellapi.h>
+	"../util.h"
+	"../stringUtil.h"
+	"../unicode.h"
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\commandpromptprocess.h
+	"../ScriptValue.h"
+
+1397594970 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\file.cpp
+	"../global.h"
+	<wchar.h>
+	"File.h"
+	"ScriptObjects.h"
+	"../util.h"
+	"../unicode.h"
+	"../malloc.h"
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\file.h
+	"../ScriptValue.h"
+
+1397146876 source:r:\msys\home\a\lcdmiscellany-read-only\src\plugin\plugins.cpp
+	"../Global.h"
+	"../Device.h"
+	"plugin.h"
+	"plugins.h"
+	"../ScriptValue.h"
+	<stdio.h>
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\plugin\plugin.h
+	<windows.h>
+
+1289398213 source:r:\msys\home\a\lcdmiscellany-read-only\src\shortcut.cpp
+	"ShortCut.h"
+	"Config.h"
+	"unicode.h"
+	"stringUtil.h"
+	<shellapi.h>
+	"malloc.h"
+	"vm.h"
+
+1396111861 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\scriptdrawing.cpp
+	"ScriptDrawing.h"
+	"../Screen.h"
+	"../ScriptObjects/ScriptFont.h"
+	"../Unicode.h"
+	"../malloc.h"
+	"../vm.h"
+	"Device.h"
+
+1395921517 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\scriptdrawing.h
+	"..\\ScriptValue.h"
+
+1289398212 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\file.cpp
+	"File.h"
+	"../unicode.h"
+	"../global.h"
+	<malloc.h>
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\file.h
+	"..\\ScriptValue.h"
+
+1289398213 source:r:\msys\home\a\lcdmiscellany-read-only\src\vm.cpp
+	<assert.h>
+	<stdlib.h>
+	"vm.h"
+	"stringUtil.h"
+	"ScriptObjects/ScriptObjects.h"
+	"SymbolTable.h"
+	"ScriptProcs/InterProcess/ScriptDll.h"
+	"config.h"
+	"Config.h"
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\interprocess\scriptdll.h
+	"../../ScriptValue.h"
+
+1395752499 source:r:\msys\home\a\lcdmiscellany-read-only\src\unicode.cpp
+	"unicode.h"
+	"malloc.h"
+	"stringUtil.h"
+	<stdio.h>
+
+1289398213 source:r:\msys\home\a\lcdmiscellany-read-only\src\symboltable.cpp
+	"SymbolTable.h"
+	"stringUtil.h"
+	"malloc.h"
+
+1289398211 source:r:\msys\home\a\lcdmiscellany-read-only\src\http\httpgetpage.cpp
+	"httpGetPage.h"
+	<stdlib.h>
+	<time.h>
+	"..\\stringUtil.h"
+	<Winsock2.h>
+	"..\\util.h"
+	"..\\malloc.h"
+	"..\\images\\inflate.h"
+	"..\\Timer.h"
+
+1389485343 r:\msys\home\a\lcdmiscellany-read-only\src\\stringutil.h
+	<string.h>
+
+1398326314 r:\msys\home\a\lcdmiscellany-read-only\src\\util.h
+	"global.h"
+	"FileReader.h"
+	<shlobj.h>
+	<stdio.h>
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\\filereader.h
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\\images\\inflate.h
+	"..\global.h"
+	<malloc.h>
+
+1389486442 r:\msys\home\a\lcdmiscellany-read-only\src\\timer.h
+	<time.h>
+	<windows.h>
+
+1289398213 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\mutablestring.cpp
+	"MutableString.h"
+	"../global.h"
+	"../unicode.h"
+	"ScriptObjects.h"
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\mutablestring.h
+	"../ScriptValue.h"
+
+1289398213 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\perfcounter.cpp
+	"PerfCounter.h"
+	"..\\perfMon.h"
+	"..\\malloc.h"
+	"ScriptObjects.h"
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\perfcounter.h
+	"..\\ScriptValue.h"
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\\perfmon.h
+	"ScriptValue.h"
+
+1396115263 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\scriptfont.cpp
+	"../global.h"
+	"../screen.h"
+	"ScriptFont.h"
+	"ScriptObjects.h"
+	"../unicode.h"
+	"../vm.h"
+	"../Config.h"
+	<stdio.h>
+
+1397088013 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\scriptimage.cpp
+	"../global.h"
+	"../screen.h"
+	"ScriptImage.h"
+	"ScriptObjects.h"
+	"../unicode.h"
+	"../Images/bmp.h"
+	"../vm.h"
+
+1397087556 r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\scriptimage.h
+	"../ScriptValue.h"
+
+1397474574 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\scriptobjects.cpp
+	"ScriptFont.h"
+	"ScriptObjects.h"
+	"..\malloc.h"
+	"..\vm.h"
+	"..\SymbolTable.h"
+	"..\Script.h"
+	"..\util.h"
+	"ScriptImage.h"
+	"File.h"
+	"PerfCounter.h"
+	"Socket.h"
+	"MediaFile.h"
+	"MiniObjects.h"
+	"SysTrayIcon.h"
+	"MutableString.h"
+	"../scriptprocs/serial.h"
+	"WMI.h"
+
+1395929243 r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\miniobjects.h
+	"..\ScriptValue.h"
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\wmi.h
+	"../ScriptValue.h"
+
+1289398213 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\wmi.cpp
+	<stdlib.h>
+	"WMI.h"
+	"ScriptObjects.h"
+	"../global.h"
+	"../malloc.h"
+	<wbemidl.h>
+	"../unicode.h"
+	"../util.h"
+
+1398326530 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\event\event.cpp
+	"../../Global.h"
+	"Event.h"
+	"../../ScriptObjects/ScriptObjects.h"
+
+1289398212 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\event\keyboard.cpp
+	"../../global.h"
+	"Keyboard.h"
+	"../../Unicode.h"
+	"../../vm.h"
+	"../../Config.h"
+
+1394914058 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\g15\g15script.cpp
+	"../../global.h"
+	"G15Script.h"
+	"../../G15Util/G15Hid.h"
+	"../../sdk/v3.01/lglcd.h"
+	"../../timer.h"
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\g15\g15script.h
+	"../../ScriptValue.h"
+
+1289398212 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\interface\monitorscript.cpp
+	"MonitorScript.h"
+	"../../Global.h"
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\interface\monitorscript.h
+	"../../ScriptValue.h"
+
+1289398212 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\interprocess\dde.cpp
+	"ScriptProcessManagement.h"
+	"../../global.h"
+	"../../unicode.h"
+	<DDEML.H>
+	"../../vm.h"
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\interprocess\scriptprocessmanagement.h
+	"../../ScriptValue.h"
+
+1289398212 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\interprocess\scriptdll.cpp
+	"../../global.h"
+	"ScriptDll.h"
+	"DllTypes.h"
+	"../../SymbolTable.h"
+	"../../unicode.h"
+	"../../Config.h"
+	"../../vm.h"
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\interprocess\dlltypes.h
+	<Windows.h>
+
+1289398212 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\interprocess\scriptprocessmanagement.cpp
+	"ScriptProcessManagement.h"
+	"../../global.h"
+	<shellapi.h>
+	"../../util.h"
+	"../../stringUtil.h"
+	"../../unicode.h"
+
+1289398212 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\interprocess\scriptsharedmemory.cpp
+	"ScriptSharedMemory.h"
+	"../../unicode.h"
+	"../../global.h"
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\interprocess\scriptsharedmemory.h
+	"../../ScriptValue.h"
+
+1397086162 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\interprocess\scriptwindowmanagement.cpp
+	"ScriptWindowManagement.h"
+	"../../global.h"
+	<Psapi.h>
+	"../../unicode.h"
+	"../../util.h"
+
+1397085575 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\interprocess\scriptwindowmanagement.h
+	"../../ScriptValue.h"
+
+1289398212 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\networking\scriptemail.cpp
+	"ScriptEmail.h"
+	"../../global.h"
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\networking\scriptemail.h
+	"../../ScriptValue.h"
+
+1289398212 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\networking\scriptip.cpp
+	"ScriptIP.h"
+	"../../config.h"
+	"../../http/httpGetPage.h"
+	"../../timer.h"
+	"../../stringUtil.h"
+
+1397144809 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\scriptprocs.cpp
+	"..\\Script.h"
+	"..\\SymbolTable.h"
+	"ScriptDrawing.h"
+	"Networking/ScriptEmail.h"
+	"Networking/ScriptIP.h"
+	"ScriptMisc.h"
+	"ScriptObjects/ScriptImage.h"
+	"File.h"
+	"Time/ScriptTime.h"
+	"Time/ScriptTimer.h"
+	"Time/ScriptWait.h"
+	"Util/ScriptTypes.h"
+	"Util/ScriptStringParser.h"
+	"Util/RegExp.h"
+	"Util/BencodeScript.h"
+	"Util/Math.h"
+	"Util/List.h"
+	"InterProcess/ScriptWindowManagement.h"
+	"InterProcess/DDE.h"
+	"InterProcess/ScriptProcessManagement.h"
+	"InterProcess/ScriptSharedMemory.h"
+	"InterProcess/ScriptDll.h"
+	"Interface/MouseScript.h"
+	"Interface/MonitorScript.h"
+	"Event/Event.h"
+	"Event/Keyboard.h"
+	"Audio.h"
+
+1395770741 r:\msys\home\a\lcdmiscellany-read-only\src\\script.h
+	"vm.h"
+	"SymbolTable.h"
+	"ScriptEnums.h"
+
+1397473901 r:\msys\home\a\lcdmiscellany-read-only\src\\vm.h
+	"ScriptEnums.h"
+	"ScriptValue.h"
+	"SymbolTable.h"
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\\scriptenums.h
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\\symboltable.h
+	"ScriptValue.h"
+	"ScriptEnums.h"
+	"HashTable.h"
+	"malloc.h"
+	"stringUtil.h"
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\\hashtable.h
+	"ScriptValue.h"
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\time\scripttime.h
+	"../../ScriptValue.h"
+
+1341870697 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\time\scripttimer.h
+	"../../ScriptValue.h"
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\time\scriptwait.h
+	"../../ScriptValue.h"
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\util\scripttypes.h
+	"../../ScriptValue.h"
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\util\scriptstringparser.h
+	"../../ScriptValue.h"
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\util\regexp.h
+	"../../ScriptValue.h"
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\util\bencodescript.h
+	"../../ScriptValue.h"
+
+1395183373 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\util\math.h
+	"../../ScriptValue.h"
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\util\list.h
+	"../../ScriptValue.h"
+
+1389490351 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\interprocess\dde.h
+	"../../ScriptValue.h"
+	"../../vm.h"
+
+1289398212 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\interface\mousescript.h
+	"../../ScriptValue.h"
+
+1289398212 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\time\scripttimer.cpp
+	"ScriptTime.h"
+	"../../global.h"
+	"../../vm.h"
+	"../../Timer.h"
+	"../../malloc.h"
+	"../../ScriptObjects/ScriptObjects.h"
+
+1420125387 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\time\scriptwait.cpp
+	"ScriptWait.h"
+	"../../global.h"
+	"../../vm.h"
+	"../../unicode.h"
+	<time.h>
+	"../../http/httpGetPage.h"
+	"../../ScriptObjects/ScriptObjects.h"
+
+1289398212 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\util\bencodescript.cpp
+	<stdlib.h>
+	<stdio.h>
+	"BencodeScript.h"
+	"../../stringUtil.h"
+	"../../unicode.h"
+
+1289398212 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\util\list.cpp
+	"List.h"
+	"../../vm.h"
+	"../../malloc.h"
+
+1395183679 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\util\math.cpp
+	"Math.h"
+	"../../vm.h"
+	"../../util.h"
+	<math.h>
+
+1289398212 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\util\regexp.cpp
+	"RegExp.h"
+	"../../malloc.h"
+	"../../stringUtil.h"
+	"../../Unicode.h"
+
+1395752485 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\util\scriptstringparser.cpp
+	"ScriptStringParser.h"
+	"../../malloc.h"
+	"../../unicode.h"
+	"../../stringUtil.h"
+	"../../config.h"
+	<ctype.h>
+
+1397087306 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\util\scripttypes.cpp
+	<stdlib.h>
+	"ScriptTypes.h"
+	"../../vm.h"
+	"../../ScriptObjects/ScriptObjects.h"
+
+1289398213 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptvalue.cpp
+	"ScriptValue.h"
+	"malloc.h"
+	"stringUtil.h"
+	"script.h"
+	"unicode.h"
+	"ScriptObjects/ScriptObjects.h"
+	"vm.h"
+
+1289398213 source:r:\msys\home\a\lcdmiscellany-read-only\src\tempcode.cpp
+	"TempCode.h"
+	"vm.h"
+	"util.h"
+	"Script.h"
+	"Config.h"
+	"Parser.h"
+	"ScriptProcs/InterProcess/ScriptDll.h"
+	"ScriptObjects/ScriptObjects.h"
+	<math.h>
+	<stdarg.h>
+
+1289398213 source:r:\msys\home\a\lcdmiscellany-read-only\src\timer.cpp
+	"http/httpGetPage.h"
+	"Timer.h"
+	<time.h>
+	"Config.h"
+	"global.h"
+	"malloc.h"
+
+1398325021 source:r:\msys\home\a\lcdmiscellany-read-only\src\util.cpp
+	<windows.h>
+	<dbt.h>
+	<shlobj.h>
+	<initguid.h>
+	"util.h"
+	"unicode.h"
+	"global.h"
+	"stringUtil.h"
+	"malloc.h"
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<time.h>
+	<math.h>
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\windows.h
+	<winresrc.h>
+	<excpt.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<wincon.h>
+	<winver.h>
+	<winreg.h>
+	<winnetwk.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<winsock2.h>
+	<mswsock.h>
+	<winsock.h>
+	<wincrypt.h>
+	<winefs.h>
+	<winscard.h>
+	<winspool.h>
+	<ole.h>
+	<ole2.h>
+	<commdlg.h>
+	<winwlm.h>
+	<ole2.h>
+	<winsvc.h>
+	<mcx.h>
+	<imm.h>
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\winresrc.h
+	<winuser.rh>
+	<commctrl.rh>
+	<dde.rh>
+	<winnt.rh>
+	<dlgs.h>
+	<winver.h>
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\winuser.rh
+
+1021578970 r:\mingw\i686-w64-mingw32\include\win32sdk\commctrl.rh
+
+1021578972 r:\mingw\i686-w64-mingw32\include\win32sdk\dde.rh
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\winnt.rh
+
+1021578972 r:\mingw\i686-w64-mingw32\include\win32sdk\dlgs.h
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\winver.h
+
+1021578976 r:\mingw\i686-w64-mingw32\include\win32sdk\excpt.h
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\windef.h
+	<winnt.h>
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\winnt.h
+	<ctype.h>
+	<basetsd.h>
+	<guiddef.h>
+	<pshpack4.h>
+	<poppack.h>
+	"pshpack4.h"
+	"pshpack2.h"
+	"pshpack1.h"
+	"poppack.h"
+	"pshpack2.h"
+	"poppack.h"
+	"pshpack8.h"
+	"poppack.h"
+	"poppack.h"
+	<string.h>
+	<string.h>
+
+1021578968 r:\mingw\i686-w64-mingw32\include\win32sdk\basetsd.h
+
+1021578976 r:\mingw\i686-w64-mingw32\include\win32sdk\guiddef.h
+	<string.h>
+
+1021578984 r:\mingw\i686-w64-mingw32\include\win32sdk\pshpack4.h
+
+1021578984 r:\mingw\i686-w64-mingw32\include\win32sdk\poppack.h
+
+1021578984 r:\mingw\i686-w64-mingw32\include\win32sdk\pshpack2.h
+
+1021578984 r:\mingw\i686-w64-mingw32\include\win32sdk\pshpack1.h
+
+1021578984 r:\mingw\i686-w64-mingw32\include\win32sdk\pshpack8.h
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\winbase.h
+	<macwin32.h>
+	<winerror.h>
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\winerror.h
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\wingdi.h
+	<macwin32.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack2.h>
+	<poppack.h>
+	<pshpack2.h>
+	<poppack.h>
+	<pshpack4.h>
+	<poppack.h>
+	"pshpack4.h"
+	"poppack.h"
+
+1318718880 r:\mingw\i686-w64-mingw32\include\win32sdk\winuser.h
+	<macwin32.h>
+	<stdarg.h>
+	<pshpack2.h>
+	<poppack.h>
+	<tvout.h>
+
+1021578990 r:\mingw\i686-w64-mingw32\include\win32sdk\tvout.h
+	<guiddef.h>
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\winnls.h
+	<macwin32.h>
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\wincon.h
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\winreg.h
+	<macwin32.h>
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\winnetwk.h
+
+1021578970 r:\mingw\i686-w64-mingw32\include\win32sdk\cderr.h
+
+1021578972 r:\mingw\i686-w64-mingw32\include\win32sdk\dde.h
+	<windef.h>
+
+1021578972 r:\mingw\i686-w64-mingw32\include\win32sdk\ddeml.h
+
+1021578978 r:\mingw\i686-w64-mingw32\include\win32sdk\lzexpand.h
+
+1021578980 r:\mingw\i686-w64-mingw32\include\win32sdk\mmsystem.h
+	<pshpack1.h>
+	<macwin32.h>
+	<poppack.h>
+
+1021578982 r:\mingw\i686-w64-mingw32\include\win32sdk\nb30.h
+
+1021578986 r:\mingw\i686-w64-mingw32\include\win32sdk\rpc.h
+	<windows.h>
+	<pshpack2.h>
+	<basetsd.h>
+	<pshpack8.h>
+	<setjmp.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcerr.h>
+	<rpcmac.h>
+	<poppack.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<excpt.h>
+	<winerror.h>
+	<rpcasync.h>
+	<poppack.h>
+
+1021578986 r:\mingw\i686-w64-mingw32\include\win32sdk\rpcdce.h
+	<guiddef.h>
+	<rpcdcep.h>
+
+1021578986 r:\mingw\i686-w64-mingw32\include\win32sdk\rpcdcep.h
+
+1021578986 r:\mingw\i686-w64-mingw32\include\win32sdk\rpcnsi.h
+
+1021578986 r:\mingw\i686-w64-mingw32\include\win32sdk\rpcnterr.h
+
+1021578986 r:\mingw\i686-w64-mingw32\include\win32sdk\rpcasync.h
+	<pshpack8.h>
+	<poppack.h>
+
+1021578986 r:\mingw\i686-w64-mingw32\include\win32sdk\shellapi.h
+	<pshpack1.h>
+	<poppack.h>
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\winperf.h
+	<pshpack8.h>
+	<poppack.h>
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\winsock2.h
+	<pshpack4.h>
+	<windows.h>
+	<qos.h>
+	<guiddef.h>
+	<poppack.h>
+
+1021578984 r:\mingw\i686-w64-mingw32\include\win32sdk\qos.h
+
+1021578982 r:\mingw\i686-w64-mingw32\include\win32sdk\mswsock.h
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\winsock.h
+	<windows.h>
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\wincrypt.h
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\winefs.h
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\winscard.h
+	<wtypes.h>
+	<winioctl.h>
+	"winsmcrd.h"
+	"SCardErr.h"
+
+1193759642 r:\mingw\i686-w64-mingw32\include\win32sdk\wtypes.h
+	"rpc.h"
+	"rpcndr.h"
+	"basetsd.h"
+	"guiddef.h"
+
+1021578986 r:\mingw\i686-w64-mingw32\include\win32sdk\rpcndr.h
+	<pshpack8.h>
+	<basetsd.h>
+	<rpcnsip.h>
+	<pshpack4.h>
+	<poppack.h>
+	<poppack.h>
+
+1021578986 r:\mingw\i686-w64-mingw32\include\win32sdk\rpcnsip.h
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\winioctl.h
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\winsmcrd.h
+
+1021578986 r:\mingw\i686-w64-mingw32\include\win32sdk\scarderr.h
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\winspool.h
+	<prsht.h>
+
+1021578984 r:\mingw\i686-w64-mingw32\include\win32sdk\prsht.h
+	<pshpack8.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1021578984 r:\mingw\i686-w64-mingw32\include\win32sdk\ole2.h
+	<pshpack8.h>
+	"macname1.h"
+	<winerror.h>
+	<macpub.h>
+	<objbase.h>
+	<oleauto.h>
+	<oleidl.h>
+	<poppack.h>
+	<macapi.h>
+	"macname2.h"
+
+1021578982 r:\mingw\i686-w64-mingw32\include\win32sdk\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<pshpack8.h>
+	<stdlib.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<guiddef.h>
+	<cguid.h>
+	<urlmon.h>
+	<propidl.h>
+	<poppack.h>
+
+1021578990 r:\mingw\i686-w64-mingw32\include\win32sdk\unknwn.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"wtypes.h"
+
+1021578984 r:\mingw\i686-w64-mingw32\include\win32sdk\objidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"unknwn.h"
+
+1021578970 r:\mingw\i686-w64-mingw32\include\win32sdk\cguid.h
+
+1021578990 r:\mingw\i686-w64-mingw32\include\win32sdk\urlmon.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	"oleidl.h"
+	"servprov.h"
+	"msxml.h"
+
+1021578984 r:\mingw\i686-w64-mingw32\include\win32sdk\oleidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+
+1021578986 r:\mingw\i686-w64-mingw32\include\win32sdk\servprov.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+
+1021578982 r:\mingw\i686-w64-mingw32\include\win32sdk\msxml.h
+	"rpc.h"
+	"rpcndr.h"
+	"unknwn.h"
+	"objidl.h"
+	"oaidl.h"
+
+1021578982 r:\mingw\i686-w64-mingw32\include\win32sdk\oaidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+
+1021578984 r:\mingw\i686-w64-mingw32\include\win32sdk\propidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	"oaidl.h"
+
+1021578984 r:\mingw\i686-w64-mingw32\include\win32sdk\oleauto.h
+	<pshpack8.h>
+	<oaidl.h>
+	<poppack.h>
+
+1021578970 r:\mingw\i686-w64-mingw32\include\win32sdk\commdlg.h
+	<prsht.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\winsvc.h
+
+1021578980 r:\mingw\i686-w64-mingw32\include\win32sdk\mcx.h
+
+1021578978 r:\mingw\i686-w64-mingw32\include\win32sdk\imm.h
+
+1021578970 r:\mingw\i686-w64-mingw32\include\win32sdk\commctrl.h
+	<prsht.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1021578986 r:\mingw\i686-w64-mingw32\include\win32sdk\setupapi.h
+	<commctrl.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1021578992 r:\mingw\i686-w64-mingw32\include\win32sdk\ws2tcpip.h
+
+1021578978 r:\mingw\i686-w64-mingw32\include\win32sdk\initguid.h
+	<guiddef.h>
+
+1021578978 r:\mingw\i686-w64-mingw32\include\win32sdk\iphlpapi.h
+	<iprtrmib.h>
+	<ipexport.h>
+	<iptypes.h>
+
+1021578978 r:\mingw\i686-w64-mingw32\include\win32sdk\iprtrmib.h
+	<mprapi.h>
+	<ipifcons.h>
+
+1021578980 r:\mingw\i686-w64-mingw32\include\win32sdk\mprapi.h
+	<lmcons.h>
+	<ras.h>
+
+1021578978 r:\mingw\i686-w64-mingw32\include\win32sdk\lmcons.h
+
+1021578984 r:\mingw\i686-w64-mingw32\include\win32sdk\ras.h
+	<lmcons.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1021578978 r:\mingw\i686-w64-mingw32\include\win32sdk\ipifcons.h
+
+1021578978 r:\mingw\i686-w64-mingw32\include\win32sdk\ipexport.h
+
+1021578978 r:\mingw\i686-w64-mingw32\include\win32sdk\iptypes.h
+	<time.h>
+
+1021578990 r:\mingw\i686-w64-mingw32\include\win32sdk\wbemidl.h
+	<wbemcli.h>
+	<wbemprov.h>
+	<wbemtran.h>
+	<wbemdisp.h>
+
+1021578990 r:\mingw\i686-w64-mingw32\include\win32sdk\wbemcli.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+
+1021578990 r:\mingw\i686-w64-mingw32\include\win32sdk\wbemprov.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	"oleidl.h"
+	"oaidl.h"
+	"wbemcli.h"
+
+1021578990 r:\mingw\i686-w64-mingw32\include\win32sdk\wbemtran.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	"oleidl.h"
+	"oaidl.h"
+	"wbemcli.h"
+
+1021578990 r:\mingw\i686-w64-mingw32\include\win32sdk\wbemdisp.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"dispex.h"
+
+1021578972 r:\mingw\i686-w64-mingw32\include\win32sdk\dispex.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"ocidl.h"
+	"servprov.h"
+
+1021578984 r:\mingw\i686-w64-mingw32\include\win32sdk\ocidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"oleidl.h"
+	"oaidl.h"
+	"servprov.h"
+	"urlmon.h"
+
+1021578984 r:\mingw\i686-w64-mingw32\include\win32sdk\psapi.h
+
+1394910162 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\mediafile.cpp
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<strings.h>
+	<wchar.h>
+	"File.h"
+	"MediaFile.h"
+	"../global.h"
+	<mmreg.h>
+	<dshow.h>
+	<control.h>
+	<initguid.h>
+	<qnetwork.h>
+	"../malloc.h"
+	"../Unicode.h"
+	"../util.h"
+	"ScriptObjects.h"
+	"../SymbolTable.h"
+	"../ScriptProcs/Event/Event.h"
+	"math.h"
+
+1395141392 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\miniobjects.cpp
+	"../global.h"
+	"MiniObjects.h"
+	"ScriptObjects.h"
+	"../util.h"
+	"../unicode.h"
+	"../malloc.h"
+	<devioctl.h>
+	<ntdddisk.h>
+	"../G15Util/G15Hid.h"
+	"../sdk/nvapi.h"
+
+1394912666 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\socket.cpp
+	"../global.h"
+	<time.h>
+	"Socket.h"
+	"ScriptObjects.h"
+	"../Network.h"
+	"../Unicode.h"
+	"../util.h"
+	<ipexport.h>
+	<IcmpAPI.h>
+	<Ws2tcpip.h>
+	<ws2spi.h>
+
+1395441134 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptobjects\systrayicon.cpp
+	"SysTrayIcon.h"
+	"../VM.h"
+	"../ScriptObjects/ScriptObjects.h"
+
+1396051974 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\audio.cpp
+	<windows.h>
+	"Audio.h"
+	"../global.h"
+	"../malloc.h"
+	"../vm.h"
+	<Mmsystem.h>
+	"../util.h"
+	<wtypes.h>
+	<endpointvolume.h>
+	<mmdeviceapi.h>
+
+1368615877 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\interface\mousescript.cpp
+	"MouseScript.h"
+	"../../global.h"
+	"../../vm.h"
+	"../../unicode.h"
+
+1397079790 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\scriptmisc.cpp
+	"ScriptMisc.h"
+	"..\\global.h"
+	"..\\vm.h"
+	"..\\SymbolTable.h"
+	"..\\unicode.h"
+	<Psapi.h>
+	"..\\util.h"
+	<math.h>
+	"../Config.h"
+	<ddraw.h>
+	<float.h>
+
+1398325885 r:\msys\home\a\lcdmiscellany-read-only\src\\global.h
+	<windows.h>
+	"globals.h"
+	"resource.h"
+
+1341863524 r:\msys\home\a\lcdmiscellany-read-only\src\\globals.h
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\\resource.h
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\\unicode.h
+
+1396863060 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\time\scripttime.cpp
+	"ScriptTime.h"
+	<stdio.h>
+	<stdlib.h>
+	"../../Global.h"
+	"../../timer.h"
+	"../../malloc.h"
+	"../../stringUtil.h"
+	"../../Unicode.h"
+	"../../util.h"
+	<wctype.h>
+
+1397117659 source:r:\msys\home\a\lcdmiscellany-read-only\src\stringutil.cpp
+	<stdio.h>
+	"stringUtil.h"
+	"malloc.h"
+	"unicode.h"
+	<ctype.h>
+
+1395771000 source:r:\msys\home\a\lcdmiscellany-read-only\src\tokenizer.cpp
+	"Tokenizer.h"
+	"Global.h"
+	<limits.h>
+	<math.h>
+	<stdlib.h>
+	"stringUtil.h"
+	"malloc.h"
+	"unicode.h"
+	"config.h"
+	"script.h"
+
+1021578980 r:\mingw\i686-w64-mingw32\include\win32sdk\mmreg.h
+	"pshpack1.h"
+	"poppack.h"
+
+1368607048 r:\mingw\i686-w64-mingw32\include\win32sdk\dshow.h
+	<strmif.h>
+	<amaudio.h>
+	<amvideo.h>
+	<evcode.h>
+	<audevcod.h>
+	<dvdevcod.h>
+	<errors.h>
+	<vptype.h>
+	<ks.h>
+	<vidcap.h>
+	<bdatypes.h>
+	<dvdmedia.h>
+	<il21dec.h>
+	"ddraw.h"
+	<wingdi.h>
+
+1021578988 r:\mingw\i686-w64-mingw32\include\win32sdk\strmif.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"unknwn.h"
+	"objidl.h"
+	"ocidl.h"
+	<ddraw.h>
+
+1021578972 r:\mingw\i686-w64-mingw32\include\win32sdk\ddraw.h
+	<objbase.h>
+
+1021578968 r:\mingw\i686-w64-mingw32\include\win32sdk\amaudio.h
+	<mmsystem.h>
+	<dsound.h>
+
+1352938718 r:\mingw\i686-w64-mingw32\include\win32sdk\dsound.h
+	"_mingw_dxhelper.h"
+	<objbase.h>
+	<float.h>
+
+1296226428 r:\mingw\i686-w64-mingw32\include\win32sdk\_mingw_dxhelper.h
+
+1021578976 r:\mingw\i686-w64-mingw32\include\win32sdk\evcode.h
+
+1021578968 r:\mingw\i686-w64-mingw32\include\win32sdk\audevcod.h
+
+1021578974 r:\mingw\i686-w64-mingw32\include\win32sdk\dvdevcod.h
+
+1021578974 r:\mingw\i686-w64-mingw32\include\win32sdk\errors.h
+	<VFWMSGS.H>
+
+1021578990 r:\mingw\i686-w64-mingw32\include\win32sdk\vfwmsgs.h
+
+1021578990 r:\mingw\i686-w64-mingw32\include\win32sdk\vptype.h
+
+1021578978 r:\mingw\i686-w64-mingw32\include\win32sdk\ks.h
+	<pshpack1.h>
+	<poppack.h>
+
+1021578974 r:\mingw\i686-w64-mingw32\include\win32sdk\dvdmedia.h
+
+1021578976 r:\mingw\i686-w64-mingw32\include\win32sdk\il21dec.h
+
+1021578972 r:\mingw\i686-w64-mingw32\include\win32sdk\control.h
+	"rpc.h"
+	"rpcndr.h"
+	"rpc.h"
+	"rpcndr.h"
+
+1021578984 r:\mingw\i686-w64-mingw32\include\win32sdk\qnetwork.h
+
+1021578990 r:\mingw\i686-w64-mingw32\include\win32sdk\uuids.h
+	"ksuuids.h"
+
+1021578978 r:\mingw\i686-w64-mingw32\include\win32sdk\ksuuids.h
+
+1395017549 source:r:\msys\home\a\lcdmiscellany-read-only\src\malloc.cpp
+	<malloc.h>
+	"malloc.h"
+
+1394997662 source:r:\msys\home\a\lcdmiscellany-read-only\src\images\stackblur.cpp
+	<stdlib.h>
+
+1394997787 r:\msys\home\a\lcdmiscellany-read-only\src\images\stackblur.h
+
+1395097658 source:r:\msys\home\a\lcdmiscellany-read-only\src\images\psd.cpp
+	"psd.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"endianswap.h"
+
+1349792106 r:\msys\home\a\lcdmiscellany-read-only\src\images\endianswap.h
+	"config.h"
+	<inttypes.h>
+	<stdint.h>
+
+1394967130 r:\msys\home\a\lcdmiscellany-read-only\src\\config.h
+	<stdio.h>
+	<wchar.h>
+	<string.h>
+	<stdarg.h>
+	"ScriptValue.h"
+
+1395096982 r:\msys\home\a\lcdmiscellany-read-only\src\images\psd.h
+	"Image.h"
+	"../ScriptValue.h"
+
+1395838758 r:\msys\home\a\lcdmiscellany-read-only\src\images\images.h
+	"Image.h"
+	"bmp.h"
+	"jpg.h"
+	"tga.h"
+	"png.h"
+	"psd.h"
+
+1289398213 r:\msys\home\a\lcdmiscellany-read-only\src\\device.h
+	"Images/Image.h"
+	"ScriptValue.h"
+	"Screen.h"
+
+1395433949 r:\msys\home\a\lcdmiscellany-read-only\src\\images\image.h
+	"..\\ScriptValue.h"
+	<math.h>
+
+1389490315 r:\msys\home\a\lcdmiscellany-read-only\src\\\scriptvalue.h
+	<wtypes.h>
+
+1395922121 r:\msys\home\a\lcdmiscellany-read-only\src\\screen.h
+	"global.h"
+	"Images/image.h"
+
+1397087556 r:\msys\home\a\lcdmiscellany-read-only\src\\scriptobjects\scriptimage.h
+	"../ScriptValue.h"
+
+1398107042 source:r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\serial.cpp
+	"../global.h"
+	<wchar.h>
+	"../ScriptObjects/ScriptObjects.h"
+	"../util.h"
+	"../unicode.h"
+	"../malloc.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<sys/types.h>
+	<string.h>
+	<unistd.h>
+	<ctype.h>
+	<windows.h>
+
+1397252880 r:\msys\home\a\lcdmiscellany-read-only\src\scriptprocs\serial.h
+
+1396048374 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\audio.cpp
+	<windows.h>
+	"Audio.h"
+	"../global.h"
+	"../malloc.h"
+	"../vm.h"
+	<Mmsystem.h>
+	"../util.h"
+	<wtypes.h>
+	<endpointvolume.h>
+	<mmdeviceapi.h>
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\audio.h
+	"../ScriptValue.h"
+
+1389486715 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptvalue.h
+	<wtypes.h>
+
+1398322285 r:\msys\home\administrator\lcdmiscellany-read-only\src\global.h
+	<windows.h>
+	"globals.h"
+	"resource.h"
+
+1341859924 r:\msys\home\administrator\lcdmiscellany-read-only\src\globals.h
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\resource.h
+
+1394909728 r:\msys\home\administrator\lcdmiscellany-read-only\src\malloc.h
+	<malloc.h>
+	<inttypes.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+
+1394909728 r:\msys\home\administrator\lcdmiscellany-read-only\src\\malloc.h
+	<malloc.h>
+	<inttypes.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+
+1397470301 r:\msys\home\administrator\lcdmiscellany-read-only\src\vm.h
+	"ScriptEnums.h"
+	"ScriptValue.h"
+	"SymbolTable.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptenums.h
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\symboltable.h
+	"ScriptValue.h"
+	"ScriptEnums.h"
+	"HashTable.h"
+	"malloc.h"
+	"stringUtil.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\hashtable.h
+	"ScriptValue.h"
+
+1389481743 r:\msys\home\administrator\lcdmiscellany-read-only\src\stringutil.h
+	<string.h>
+
+1398322714 r:\msys\home\administrator\lcdmiscellany-read-only\src\util.h
+	"global.h"
+	"FileReader.h"
+	<shlobj.h>
+	<stdio.h>
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\filereader.h
+
+1431915912 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\config.cpp
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<strings.h>
+	<wchar.h>
+	"global.h"
+	"Config.h"
+	"Unicode.h"
+	"stringUtil.h"
+	<stdarg.h>
+	"util.h"
+	"malloc.h"
+	<commctrl.h>
+	<math.h>
+
+1394963530 r:\msys\home\administrator\lcdmiscellany-read-only\src\config.h
+	<stdio.h>
+	<wchar.h>
+	<string.h>
+	<stdarg.h>
+	"ScriptValue.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\unicode.h
+
+1398193027 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\device.cpp
+	"global.h"
+	"Device.h"
+	<time.h>
+	<stdio.h>
+	"sdk/v3.01/lgLcd.h"
+	"StringUtil.h"
+	"timer.h"
+	<inttypes.h>
+	<stdlib.h>
+	<string.h>
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\device.h
+	"Images/Image.h"
+	"ScriptValue.h"
+	"Screen.h"
+
+1395430349 r:\msys\home\administrator\lcdmiscellany-read-only\src\images\image.h
+	"..\\ScriptValue.h"
+	<math.h>
+
+1389486715 r:\msys\home\administrator\lcdmiscellany-read-only\src\\scriptvalue.h
+	<wtypes.h>
+
+1395918521 r:\msys\home\administrator\lcdmiscellany-read-only\src\screen.h
+	"global.h"
+	"Images/image.h"
+
+1242982102 r:\msys\home\administrator\lcdmiscellany-read-only\src\sdk\v3.01\lglcd.h
+	<windows.h>
+
+1389482842 r:\msys\home\administrator\lcdmiscellany-read-only\src\timer.h
+	<time.h>
+	<windows.h>
+
+1394917338 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\filereader.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"FileReader.h"
+
+1394910593 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\g15util\g15hid.cpp
+	"../global.h"
+	"G15HID.h"
+	"../malloc.h"
+	<Setupapi.h>
+	"../Screen.h"
+	"../StringUtil.h"
+	"../Unicode.h"
+	"../ScriptProcs/Event/Event.h"
+	<ddk/hidsdi.h>
+	"../global.h"
+
+1394910581 r:\msys\home\administrator\lcdmiscellany-read-only\src\g15util\g15hid.h
+	"../sdk/v3.01/lglcd.h"
+	"../ScriptValue.h"
+	"../Device.h"
+
+1398320428 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\event\event.h
+	"../../vm.h"
+	"../../ScriptValue.h"
+
+1289394613 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\gencode.cpp
+	<stdio.h>
+	<stdlib.h>
+	"GenCode.h"
+	"ScriptObjects/ScriptObjects.h"
+	"TempCode.h"
+	"Script.h"
+	"Config.h"
+	"vm.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\gencode.h
+	"ScriptEnums.h"
+
+1341862658 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\scriptobjects.h
+	"../ScriptValue.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\tempcode.h
+	"ScriptEnums.h"
+	"ScriptValue.h"
+
+1395767141 r:\msys\home\administrator\lcdmiscellany-read-only\src\script.h
+	"vm.h"
+	"SymbolTable.h"
+	"ScriptEnums.h"
+
+1289394613 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\hashtable.cpp
+	"HashTable.h"
+	"malloc.h"
+	"stringUtil.h"
+
+1289394611 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\http\httpgetpage.cpp
+	"httpGetPage.h"
+	<stdlib.h>
+	<time.h>
+	"..\\stringUtil.h"
+	<Winsock2.h>
+	"..\\util.h"
+	"..\\malloc.h"
+	"..\\images\\inflate.h"
+	"..\\Timer.h"
+
+1289394611 r:\msys\home\administrator\lcdmiscellany-read-only\src\http\httpgetpage.h
+	"../Network.h"
+
+1394905667 r:\msys\home\administrator\lcdmiscellany-read-only\src\network.h
+	"global.h"
+	<Winsock2.h>
+	<Ws2tcpip.h>
+	<inttypes.h>
+	<stdlib.h>
+	<string.h>
+
+1389481743 r:\msys\home\administrator\lcdmiscellany-read-only\src\\stringutil.h
+	<string.h>
+
+1398322714 r:\msys\home\administrator\lcdmiscellany-read-only\src\\util.h
+	"global.h"
+	"FileReader.h"
+	<shlobj.h>
+	<stdio.h>
+
+1398322285 r:\msys\home\administrator\lcdmiscellany-read-only\src\\global.h
+	<windows.h>
+	"globals.h"
+	"resource.h"
+
+1341859924 r:\msys\home\administrator\lcdmiscellany-read-only\src\\globals.h
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\\resource.h
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\\filereader.h
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\\images\\inflate.h
+	"..\global.h"
+	<malloc.h>
+
+1389482842 r:\msys\home\administrator\lcdmiscellany-read-only\src\\timer.h
+	<time.h>
+	<windows.h>
+
+1395921119 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\images\bmp.cpp
+	<inttypes.h>
+	<stdlib.h>
+	<string.h>
+	"bmp.h"
+	"util.h"
+	<windows.h>
+	<malloc.h>
+
+1395917389 r:\msys\home\administrator\lcdmiscellany-read-only\src\images\bmp.h
+	<stdio.h>
+	"image.h"
+	"../ScriptValue.h"
+
+1289394613 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\images\gif.cpp
+	"gif.h"
+	"..\\malloc.h"
+	<string.h>
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\images\gif.h
+	"Image.h"
+	"..\Script.h"
+
+1395437349 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\images\image.cpp
+	"malloc.h"
+	<stdlib.h>
+	"Image.h"
+	"../stringUtil.h"
+	"../Screen.h"
+	"../Util.h"
+	"../unicode.h"
+	"Image.h"
+	"BMP.h"
+	"tga.h"
+	"jpg.h"
+	"gif.h"
+	"png.h"
+	"psd.h"
+	"stackblur.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\images\tga.h
+	"Image.h"
+	"../ScriptValue.h"
+	<stdio.h>
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\images\jpg.h
+	"image.h"
+	"../ScriptValue.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\images\png.h
+	"Image.h"
+	"../ScriptValue.h"
+
+1395093382 r:\msys\home\administrator\lcdmiscellany-read-only\src\images\psd.h
+	"Image.h"
+	"../ScriptValue.h"
+
+1394994187 r:\msys\home\administrator\lcdmiscellany-read-only\src\images\stackblur.h
+
+1289394613 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\images\inflate.cpp
+	"inflate.h"
+	"../malloc.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\images\inflate.h
+	"..\global.h"
+	<malloc.h>
+
+1389482071 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\images\jpg.cpp
+	"jpg.h"
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"..\\malloc.h"
+
+1395915943 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\images\png.cpp
+	"png.h"
+	"inflate.h"
+	"../malloc.h"
+	<string.h>
+
+1395094058 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\images\psd.cpp
+	"psd.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"endianswap.h"
+
+1349788506 r:\msys\home\administrator\lcdmiscellany-read-only\src\images\endianswap.h
+	"config.h"
+	<inttypes.h>
+	<stdint.h>
+
+1394963530 r:\msys\home\administrator\lcdmiscellany-read-only\src\\config.h
+	<stdio.h>
+	<wchar.h>
+	<string.h>
+	<stdarg.h>
+	"ScriptValue.h"
+
+1394994062 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\images\stackblur.cpp
+	<stdlib.h>
+
+1289394613 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\images\tga.cpp
+	"tga.h"
+	"..\\malloc.h"
+	<string.h>
+
+1398322339 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\lcdmisc.cpp
+	<windows.h>
+	<dbt.h>
+	<shlobj.h>
+	<initguid.h>
+	"global.h"
+	"Device.h"
+	"http/httpGetPage.h"
+	"stringUtil.h"
+	"ScriptObjects/ScriptObjects.h"
+	"ScriptObjects/MediaFile.h"
+	"ScriptObjects/Socket.h"
+	"ScriptProcs/ScriptMisc.h"
+	"G15Util/G15HID.h"
+	"util.h"
+	"ScriptObjects/SysTrayIcon.h"
+	"plugin/plugins.h"
+	"Timer.h"
+	"Screen.h"
+	"Config.h"
+	"PerfMon.h"
+	"Network.h"
+	"ShortCut.h"
+	"vm.h"
+	"ScriptProcs/networking/ScriptIP.h"
+	"ScriptProcs/Event/Event.h"
+	"ScriptProcs/Event/Keyboard.h"
+	"ScriptProcs/Audio.h"
+	"Script.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\mediafile.h
+	"..\\ScriptValue.h"
+
+1394904934 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\socket.h
+	"../ScriptValue.h"
+	"../vm.h"
+
+1397074664 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\scriptmisc.h
+	"..\\ScriptValue.h"
+
+1389482809 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\systrayicon.h
+	<stdlib.h>
+	"../ScriptValue.h"
+	"../Device.h"
+	"../unicode.h"
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\plugin\plugins.h
+	"../global.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\perfmon.h
+	"ScriptValue.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\shortcut.h
+	"global.h"
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\networking\scriptip.h
+	"../../ScriptValue.h"
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\event\keyboard.h
+	"../../ScriptValue.h"
+
+1395013949 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\malloc.cpp
+	<malloc.h>
+	"malloc.h"
+
+1389482093 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\network.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stringUtil.h"
+	"Network.h"
+	"malloc.h"
+	"Unicode.h"
+	<Ws2tcpip.h>
+
+1289394613 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\parser.cpp
+	"Parser.h"
+	"Tokenizer.h"
+	"malloc.h"
+	"config.h"
+
+1341864441 r:\msys\home\administrator\lcdmiscellany-read-only\src\parser.h
+	"ScriptEnums.h"
+	<wtypes.h>
+
+1368612493 r:\msys\home\administrator\lcdmiscellany-read-only\src\tokenizer.h
+	<wtypes.h>
+	"ScriptEnums.h"
+	"Unicode.h"
+
+1394909792 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\perfmon.cpp
+	"PerfMon.h"
+	"global.h"
+	<float.h>
+	"malloc.h"
+	"Unicode.h"
+	"Config.h"
+	<math.h>
+	<ntdddisk.h>
+	<winperf.h>
+	<Winsock2.h>
+	<Ws2tcpip.h>
+	<iphlpapi.h>
+
+1397143276 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\plugin\plugins.cpp
+	"../Global.h"
+	"../Device.h"
+	"plugin.h"
+	"plugins.h"
+	"../ScriptValue.h"
+	<stdio.h>
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\plugin\plugin.h
+	<windows.h>
+
+1396118998 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\screen.cpp
+	<stdlib.h>
+	<stdio.h>
+	"ScriptObjects/ScriptFont.h"
+	"Screen.h"
+	"Unicode.h"
+	"images/Images.h"
+	"stringUtil.h"
+	<math.h>
+	<xmmintrin.h>
+	<stdio.h>
+
+1389482115 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\scriptfont.h
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"../global.h"
+	"../ScriptValue.h"
+	"../Images/image.h"
+
+1395835158 r:\msys\home\administrator\lcdmiscellany-read-only\src\images\images.h
+	"Image.h"
+	"bmp.h"
+	"jpg.h"
+	"tga.h"
+	"png.h"
+	"psd.h"
+
+1397470413 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\script.cpp
+	"global.h"
+	"Script.h"
+	"Tokenizer.h"
+	"Parser.h"
+	"TempCode.h"
+	"GenCode.h"
+	"util.h"
+	"Config.h"
+	"vm.h"
+	"ScriptProcs\\ScriptProcs.h"
+	"ScriptObjects\\ScriptObjects.h"
+	"ScriptObjects\\WMI.h"
+	"unicode.h"
+	"ScriptValue.h"
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\\scriptprocs.h
+
+1341862658 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\\scriptobjects.h
+	"../ScriptValue.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\\wmi.h
+	"../ScriptValue.h"
+
+1389482123 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\commandpromptprocess.cpp
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"CommandPromptProcess.h"
+	"../global.h"
+	<shellapi.h>
+	"../util.h"
+	"../stringUtil.h"
+	"../unicode.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\commandpromptprocess.h
+	"../ScriptValue.h"
+
+1397591370 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\file.cpp
+	"../global.h"
+	<wchar.h>
+	"File.h"
+	"ScriptObjects.h"
+	"../util.h"
+	"../unicode.h"
+	"../malloc.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\file.h
+	"../ScriptValue.h"
+
+1394906562 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\mediafile.cpp
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<strings.h>
+	<wchar.h>
+	"File.h"
+	"MediaFile.h"
+	"../global.h"
+	<mmreg.h>
+	<dshow.h>
+	<control.h>
+	<initguid.h>
+	<qnetwork.h>
+	"../malloc.h"
+	"../Unicode.h"
+	"../util.h"
+	"ScriptObjects.h"
+	"../SymbolTable.h"
+	"../ScriptProcs/Event/Event.h"
+	"math.h"
+
+1395137792 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\miniobjects.cpp
+	"../global.h"
+	"MiniObjects.h"
+	"ScriptObjects.h"
+	"../util.h"
+	"../unicode.h"
+	"../malloc.h"
+	<devioctl.h>
+	<ntdddisk.h>
+	"../G15Util/G15Hid.h"
+	"../sdk/nvapi.h"
+
+1395925643 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\miniobjects.h
+	"..\ScriptValue.h"
+
+1289394613 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\mutablestring.cpp
+	"MutableString.h"
+	"../global.h"
+	"../unicode.h"
+	"ScriptObjects.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\mutablestring.h
+	"../ScriptValue.h"
+
+1289394613 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\perfcounter.cpp
+	"PerfCounter.h"
+	"..\\perfMon.h"
+	"..\\malloc.h"
+	"ScriptObjects.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\perfcounter.h
+	"..\\ScriptValue.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\\perfmon.h
+	"ScriptValue.h"
+
+1396111663 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\scriptfont.cpp
+	"../global.h"
+	"../screen.h"
+	"ScriptFont.h"
+	"ScriptObjects.h"
+	"../unicode.h"
+	"../vm.h"
+	"../Config.h"
+	<stdio.h>
+
+1397084413 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\scriptimage.cpp
+	"../global.h"
+	"../screen.h"
+	"ScriptImage.h"
+	"ScriptObjects.h"
+	"../unicode.h"
+	"../Images/bmp.h"
+	"../vm.h"
+
+1397083956 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\scriptimage.h
+	"../ScriptValue.h"
+
+1397470974 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\scriptobjects.cpp
+	"ScriptFont.h"
+	"ScriptObjects.h"
+	"..\malloc.h"
+	"..\vm.h"
+	"..\SymbolTable.h"
+	"..\Script.h"
+	"..\util.h"
+	"ScriptImage.h"
+	"File.h"
+	"PerfCounter.h"
+	"Socket.h"
+	"MediaFile.h"
+	"MiniObjects.h"
+	"SysTrayIcon.h"
+	"MutableString.h"
+	"../scriptprocs/serial.h"
+	"WMI.h"
+
+1397249280 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\serial.h
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\wmi.h
+	"../ScriptValue.h"
+
+1394909066 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\socket.cpp
+	"../global.h"
+	<time.h>
+	"Socket.h"
+	"ScriptObjects.h"
+	"../Network.h"
+	"../Unicode.h"
+	"../util.h"
+	<ipexport.h>
+	<IcmpAPI.h>
+	<Ws2tcpip.h>
+	<ws2spi.h>
+
+1395437534 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\systrayicon.cpp
+	"SysTrayIcon.h"
+	"../VM.h"
+	"../ScriptObjects/ScriptObjects.h"
+
+1289394613 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptobjects\wmi.cpp
+	<stdlib.h>
+	"WMI.h"
+	"ScriptObjects.h"
+	"../global.h"
+	"../malloc.h"
+	<wbemidl.h>
+	"../unicode.h"
+	"../util.h"
+
+1398322930 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\event\event.cpp
+	"../../Global.h"
+	"Event.h"
+	"../../ScriptObjects/ScriptObjects.h"
+
+1289394612 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\event\keyboard.cpp
+	"../../global.h"
+	"Keyboard.h"
+	"../../Unicode.h"
+	"../../vm.h"
+	"../../Config.h"
+
+1289394612 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\file.cpp
+	"File.h"
+	"../unicode.h"
+	"../global.h"
+	<malloc.h>
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\file.h
+	"..\\ScriptValue.h"
+
+1394910458 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\g15\g15script.cpp
+	"../../global.h"
+	"G15Script.h"
+	"../../G15Util/G15Hid.h"
+	"../../sdk/v3.01/lglcd.h"
+	"../../timer.h"
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\g15\g15script.h
+	"../../ScriptValue.h"
+
+1289394612 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\interface\monitorscript.cpp
+	"MonitorScript.h"
+	"../../Global.h"
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\interface\monitorscript.h
+	"../../ScriptValue.h"
+
+1368612277 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\interface\mousescript.cpp
+	"MouseScript.h"
+	"../../global.h"
+	"../../vm.h"
+	"../../unicode.h"
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\interface\mousescript.h
+	"../../ScriptValue.h"
+
+1289394612 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\interprocess\dde.cpp
+	"ScriptProcessManagement.h"
+	"../../global.h"
+	"../../unicode.h"
+	<DDEML.H>
+	"../../vm.h"
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\interprocess\scriptprocessmanagement.h
+	"../../ScriptValue.h"
+
+1289394612 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\interprocess\scriptdll.cpp
+	"../../global.h"
+	"ScriptDll.h"
+	"DllTypes.h"
+	"../../SymbolTable.h"
+	"../../unicode.h"
+	"../../Config.h"
+	"../../vm.h"
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\interprocess\scriptdll.h
+	"../../ScriptValue.h"
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\interprocess\dlltypes.h
+	<Windows.h>
+
+1289394612 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\interprocess\scriptprocessmanagement.cpp
+	"ScriptProcessManagement.h"
+	"../../global.h"
+	<shellapi.h>
+	"../../util.h"
+	"../../stringUtil.h"
+	"../../unicode.h"
+
+1289394612 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\interprocess\scriptsharedmemory.cpp
+	"ScriptSharedMemory.h"
+	"../../unicode.h"
+	"../../global.h"
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\interprocess\scriptsharedmemory.h
+	"../../ScriptValue.h"
+
+1397082562 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\interprocess\scriptwindowmanagement.cpp
+	"ScriptWindowManagement.h"
+	"../../global.h"
+	<Psapi.h>
+	"../../unicode.h"
+	"../../util.h"
+
+1397081975 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\interprocess\scriptwindowmanagement.h
+	"../../ScriptValue.h"
+
+1289394612 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\networking\scriptemail.cpp
+	"ScriptEmail.h"
+	"../../global.h"
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\networking\scriptemail.h
+	"../../ScriptValue.h"
+
+1289394612 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\networking\scriptip.cpp
+	"ScriptIP.h"
+	"../../config.h"
+	"../../http/httpGetPage.h"
+	"../../timer.h"
+	"../../stringUtil.h"
+
+1396108261 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\scriptdrawing.cpp
+	"ScriptDrawing.h"
+	"../Screen.h"
+	"../ScriptObjects/ScriptFont.h"
+	"../Unicode.h"
+	"../malloc.h"
+	"../vm.h"
+	"Device.h"
+
+1395917917 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\scriptdrawing.h
+	"..\\ScriptValue.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\\device.h
+	"Images/Image.h"
+	"ScriptValue.h"
+	"Screen.h"
+
+1395430349 r:\msys\home\administrator\lcdmiscellany-read-only\src\\images\image.h
+	"..\\ScriptValue.h"
+	<math.h>
+
+1389486715 r:\msys\home\administrator\lcdmiscellany-read-only\src\\\scriptvalue.h
+	<wtypes.h>
+
+1395918521 r:\msys\home\administrator\lcdmiscellany-read-only\src\\screen.h
+	"global.h"
+	"Images/image.h"
+
+1397076190 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\scriptmisc.cpp
+	"ScriptMisc.h"
+	"..\\global.h"
+	"..\\vm.h"
+	"..\\SymbolTable.h"
+	"..\\unicode.h"
+	<Psapi.h>
+	"..\\util.h"
+	<math.h>
+	"../Config.h"
+	<ddraw.h>
+	<float.h>
+
+1397470301 r:\msys\home\administrator\lcdmiscellany-read-only\src\\vm.h
+	"ScriptEnums.h"
+	"ScriptValue.h"
+	"SymbolTable.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\\scriptenums.h
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\\symboltable.h
+	"ScriptValue.h"
+	"ScriptEnums.h"
+	"HashTable.h"
+	"malloc.h"
+	"stringUtil.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\\hashtable.h
+	"ScriptValue.h"
+
+1289394613 r:\msys\home\administrator\lcdmiscellany-read-only\src\\unicode.h
+
+1397141209 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\scriptprocs.cpp
+	"..\\Script.h"
+	"..\\SymbolTable.h"
+	"ScriptDrawing.h"
+	"Networking/ScriptEmail.h"
+	"Networking/ScriptIP.h"
+	"ScriptMisc.h"
+	"ScriptObjects/ScriptImage.h"
+	"File.h"
+	"Time/ScriptTime.h"
+	"Time/ScriptTimer.h"
+	"Time/ScriptWait.h"
+	"Util/ScriptTypes.h"
+	"Util/ScriptStringParser.h"
+	"Util/RegExp.h"
+	"Util/BencodeScript.h"
+	"Util/Math.h"
+	"Util/List.h"
+	"InterProcess/ScriptWindowManagement.h"
+	"InterProcess/DDE.h"
+	"InterProcess/ScriptProcessManagement.h"
+	"InterProcess/ScriptSharedMemory.h"
+	"InterProcess/ScriptDll.h"
+	"Interface/MouseScript.h"
+	"Interface/MonitorScript.h"
+	"Event/Event.h"
+	"Event/Keyboard.h"
+	"Audio.h"
+
+1395767141 r:\msys\home\administrator\lcdmiscellany-read-only\src\\script.h
+	"vm.h"
+	"SymbolTable.h"
+	"ScriptEnums.h"
+
+1397083956 r:\msys\home\administrator\lcdmiscellany-read-only\src\\scriptobjects\scriptimage.h
+	"../ScriptValue.h"
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\time\scripttime.h
+	"../../ScriptValue.h"
+
+1341867097 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\time\scripttimer.h
+	"../../ScriptValue.h"
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\time\scriptwait.h
+	"../../ScriptValue.h"
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\util\scripttypes.h
+	"../../ScriptValue.h"
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\util\scriptstringparser.h
+	"../../ScriptValue.h"
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\util\regexp.h
+	"../../ScriptValue.h"
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\util\bencodescript.h
+	"../../ScriptValue.h"
+
+1395179773 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\util\math.h
+	"../../ScriptValue.h"
+
+1289394612 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\util\list.h
+	"../../ScriptValue.h"
+
+1389486751 r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\interprocess\dde.h
+	"../../ScriptValue.h"
+	"../../vm.h"
+
+1398103442 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\serial.cpp
+	"../global.h"
+	<wchar.h>
+	"../ScriptObjects/ScriptObjects.h"
+	"../util.h"
+	"../unicode.h"
+	"../malloc.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<sys/types.h>
+	<string.h>
+	<unistd.h>
+	<ctype.h>
+	<windows.h>
+
+1396859460 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\time\scripttime.cpp
+	"ScriptTime.h"
+	<stdio.h>
+	<stdlib.h>
+	"../../Global.h"
+	"../../timer.h"
+	"../../malloc.h"
+	"../../stringUtil.h"
+	"../../Unicode.h"
+	"../../util.h"
+	<wctype.h>
+
+1289394612 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\time\scripttimer.cpp
+	"ScriptTime.h"
+	"../../global.h"
+	"../../vm.h"
+	"../../Timer.h"
+	"../../malloc.h"
+	"../../ScriptObjects/ScriptObjects.h"
+
+1420121787 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\time\scriptwait.cpp
+	"ScriptWait.h"
+	"../../global.h"
+	"../../vm.h"
+	"../../unicode.h"
+	<time.h>
+	"../../http/httpGetPage.h"
+	"../../ScriptObjects/ScriptObjects.h"
+
+1289394612 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\util\bencodescript.cpp
+	<stdlib.h>
+	<stdio.h>
+	"BencodeScript.h"
+	"../../stringUtil.h"
+	"../../unicode.h"
+
+1289394612 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\util\list.cpp
+	"List.h"
+	"../../vm.h"
+	"../../malloc.h"
+
+1395180079 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\util\math.cpp
+	"Math.h"
+	"../../vm.h"
+	"../../util.h"
+	<math.h>
+
+1289394612 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\util\regexp.cpp
+	"RegExp.h"
+	"../../malloc.h"
+	"../../stringUtil.h"
+	"../../Unicode.h"
+
+1395748885 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\util\scriptstringparser.cpp
+	"ScriptStringParser.h"
+	"../../malloc.h"
+	"../../unicode.h"
+	"../../stringUtil.h"
+	"../../config.h"
+	<ctype.h>
+
+1397083706 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptprocs\util\scripttypes.cpp
+	<stdlib.h>
+	"ScriptTypes.h"
+	"../../vm.h"
+	"../../ScriptObjects/ScriptObjects.h"
+
+1289394613 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\scriptvalue.cpp
+	"ScriptValue.h"
+	"malloc.h"
+	"stringUtil.h"
+	"script.h"
+	"unicode.h"
+	"ScriptObjects/ScriptObjects.h"
+	"vm.h"
+
+1289394613 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\shortcut.cpp
+	"ShortCut.h"
+	"Config.h"
+	"unicode.h"
+	"stringUtil.h"
+	<shellapi.h>
+	"malloc.h"
+	"vm.h"
+
+1397114059 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\stringutil.cpp
+	<stdio.h>
+	"stringUtil.h"
+	"malloc.h"
+	"unicode.h"
+	<ctype.h>
+
+1289394613 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\symboltable.cpp
+	"SymbolTable.h"
+	"stringUtil.h"
+	"malloc.h"
+
+1289394613 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\tempcode.cpp
+	"TempCode.h"
+	"vm.h"
+	"util.h"
+	"Script.h"
+	"Config.h"
+	"Parser.h"
+	"ScriptProcs/InterProcess/ScriptDll.h"
+	"ScriptObjects/ScriptObjects.h"
+	<math.h>
+	<stdarg.h>
+
+1289394613 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\timer.cpp
+	"http/httpGetPage.h"
+	"Timer.h"
+	<time.h>
+	"Config.h"
+	"global.h"
+	"malloc.h"
+
+1395767400 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\tokenizer.cpp
+	"Tokenizer.h"
+	"Global.h"
+	<limits.h>
+	<math.h>
+	<stdlib.h>
+	"stringUtil.h"
+	"malloc.h"
+	"unicode.h"
+	"config.h"
+	"script.h"
+
+1395748899 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\unicode.cpp
+	"unicode.h"
+	"malloc.h"
+	"stringUtil.h"
+	<stdio.h>
+
+1398321421 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\util.cpp
+	<windows.h>
+	<dbt.h>
+	<shlobj.h>
+	<initguid.h>
+	"util.h"
+	"unicode.h"
+	"global.h"
+	"stringUtil.h"
+	"malloc.h"
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<time.h>
+	<math.h>
+
+1289394613 source:r:\msys\home\administrator\lcdmiscellany-read-only\src\vm.cpp
+	<assert.h>
+	<stdlib.h>
+	"vm.h"
+	"stringUtil.h"
+	"ScriptObjects/ScriptObjects.h"
+	"SymbolTable.h"
+	"ScriptProcs/InterProcess/ScriptDll.h"
+	"config.h"
+	"Config.h"
+
+1573332845 source:k:\code\lcdmisc\src\scriptprocs\audio.cpp
+	<_mingw.h>
+	"Audio.h"
+	<windows.h>
+	"../global.h"
+	"../malloc.h"
+	"../vm.h"
+	<Mmsystem.h>
+	"../util.h"
+	<wtypes.h>
+	<endpointvolume.h>
+	<mmdeviceapi.h>
+
+1289394612 k:\code\lcdmisc\src\scriptprocs\audio.h
+	"../ScriptValue.h"
+
+1573085544 k:\code\lcdmisc\src\scriptvalue.h
+	<wtypes.h>
+
+1398322285 k:\code\lcdmisc\src\global.h
+	<windows.h>
+	"globals.h"
+	"resource.h"
+
+1341859924 k:\code\lcdmisc\src\globals.h
+
+1289394613 k:\code\lcdmisc\src\resource.h
+
+1573332701 k:\code\lcdmisc\src\malloc.h
+	<malloc.h>
+	<inttypes.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+
+1573332701 k:\code\lcdmisc\src\\malloc.h
+	<malloc.h>
+	<inttypes.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+
+1397470301 k:\code\lcdmisc\src\vm.h
+	"ScriptEnums.h"
+	"ScriptValue.h"
+	"SymbolTable.h"
+
+1289394613 k:\code\lcdmisc\src\scriptenums.h
+
+1289394613 k:\code\lcdmisc\src\symboltable.h
+	"ScriptValue.h"
+	"ScriptEnums.h"
+	"HashTable.h"
+	"malloc.h"
+	"stringUtil.h"
+
+1289394613 k:\code\lcdmisc\src\hashtable.h
+	"ScriptValue.h"
+
+1389481743 k:\code\lcdmisc\src\stringutil.h
+	<string.h>
+
+1398322714 k:\code\lcdmisc\src\util.h
+	"global.h"
+	"FileReader.h"
+	<shlobj.h>
+	<stdio.h>
+
+1289394613 k:\code\lcdmisc\src\filereader.h
+
+1573091710 source:k:\code\lcdmisc\src\config.cpp
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<strings.h>
+	<wchar.h>
+	"global.h"
+	"Config.h"
+	"Unicode.h"
+	"stringUtil.h"
+	<stdarg.h>
+	"util.h"
+	"malloc.h"
+	<commctrl.h>
+	<math.h>
+
+1394963530 k:\code\lcdmisc\src\config.h
+	<stdio.h>
+	<wchar.h>
+	<string.h>
+	<stdarg.h>
+	"ScriptValue.h"
+
+1289394613 k:\code\lcdmisc\src\unicode.h
+
+1398193027 source:k:\code\lcdmisc\src\device.cpp
+	"global.h"
+	"Device.h"
+	<time.h>
+	<stdio.h>
+	"sdk/v3.01/lgLcd.h"
+	"StringUtil.h"
+	"timer.h"
+	<inttypes.h>
+	<stdlib.h>
+	<string.h>
+
+1289394613 k:\code\lcdmisc\src\device.h
+	"Images/Image.h"
+	"ScriptValue.h"
+	"Screen.h"
+
+1395430349 k:\code\lcdmisc\src\images\image.h
+	"..\\ScriptValue.h"
+	<math.h>
+
+1573085544 k:\code\lcdmisc\src\\scriptvalue.h
+	<wtypes.h>
+
+1395918521 k:\code\lcdmisc\src\screen.h
+	"global.h"
+	"Images/image.h"
+
+1242982102 k:\code\lcdmisc\src\sdk\v3.01\lglcd.h
+	<windows.h>
+
+1389482842 k:\code\lcdmisc\src\timer.h
+	<time.h>
+	<windows.h>
+
+1394917338 source:k:\code\lcdmisc\src\filereader.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"FileReader.h"
+
+1394910593 source:k:\code\lcdmisc\src\g15util\g15hid.cpp
+	"../global.h"
+	"G15HID.h"
+	"../malloc.h"
+	<Setupapi.h>
+	"../Screen.h"
+	"../StringUtil.h"
+	"../Unicode.h"
+	"../ScriptProcs/Event/Event.h"
+	<ddk/hidsdi.h>
+	"../global.h"
+
+1394910581 k:\code\lcdmisc\src\g15util\g15hid.h
+	"../sdk/v3.01/lglcd.h"
+	"../ScriptValue.h"
+	"../Device.h"
+
+1398320428 k:\code\lcdmisc\src\scriptprocs\event\event.h
+	"../../vm.h"
+	"../../ScriptValue.h"
+
+1289394613 source:k:\code\lcdmisc\src\gencode.cpp
+	<stdio.h>
+	<stdlib.h>
+	"GenCode.h"
+	"ScriptObjects/ScriptObjects.h"
+	"TempCode.h"
+	"Script.h"
+	"Config.h"
+	"vm.h"
+
+1289394613 k:\code\lcdmisc\src\gencode.h
+	"ScriptEnums.h"
+
+1341862658 k:\code\lcdmisc\src\scriptobjects\scriptobjects.h
+	"../ScriptValue.h"
+
+1289394613 k:\code\lcdmisc\src\tempcode.h
+	"ScriptEnums.h"
+	"ScriptValue.h"
+
+1395767141 k:\code\lcdmisc\src\script.h
+	"vm.h"
+	"SymbolTable.h"
+	"ScriptEnums.h"
+
+1289394613 source:k:\code\lcdmisc\src\hashtable.cpp
+	"HashTable.h"
+	"malloc.h"
+	"stringUtil.h"
+
+1289394611 source:k:\code\lcdmisc\src\http\httpgetpage.cpp
+	"httpGetPage.h"
+	<stdlib.h>
+	<time.h>
+	"..\\stringUtil.h"
+	<Winsock2.h>
+	"..\\util.h"
+	"..\\malloc.h"
+	"..\\images\\inflate.h"
+	"..\\Timer.h"
+
+1289394611 k:\code\lcdmisc\src\http\httpgetpage.h
+	"../Network.h"
+
+1394905667 k:\code\lcdmisc\src\network.h
+	"global.h"
+	<Winsock2.h>
+	<Ws2tcpip.h>
+	<inttypes.h>
+	<stdlib.h>
+	<string.h>
+
+1389481743 k:\code\lcdmisc\src\\stringutil.h
+	<string.h>
+
+1398322714 k:\code\lcdmisc\src\\util.h
+	"global.h"
+	"FileReader.h"
+	<shlobj.h>
+	<stdio.h>
+
+1398322285 k:\code\lcdmisc\src\\global.h
+	<windows.h>
+	"globals.h"
+	"resource.h"
+
+1341859924 k:\code\lcdmisc\src\\globals.h
+
+1289394613 k:\code\lcdmisc\src\\resource.h
+
+1289394613 k:\code\lcdmisc\src\\filereader.h
+
+1289394613 k:\code\lcdmisc\src\\images\\inflate.h
+	"..\global.h"
+	<malloc.h>
+
+1389482842 k:\code\lcdmisc\src\\timer.h
+	<time.h>
+	<windows.h>
+
+1395921119 source:k:\code\lcdmisc\src\images\bmp.cpp
+	<inttypes.h>
+	<stdlib.h>
+	<string.h>
+	"bmp.h"
+	"util.h"
+	<windows.h>
+	<malloc.h>
+
+1395917389 k:\code\lcdmisc\src\images\bmp.h
+	<stdio.h>
+	"image.h"
+	"../ScriptValue.h"
+
+1289394613 source:k:\code\lcdmisc\src\images\gif.cpp
+	"gif.h"
+	"..\\malloc.h"
+	<string.h>
+
+1289394613 k:\code\lcdmisc\src\images\gif.h
+	"Image.h"
+	"..\Script.h"
+
+1395437349 source:k:\code\lcdmisc\src\images\image.cpp
+	"malloc.h"
+	<stdlib.h>
+	"Image.h"
+	"../stringUtil.h"
+	"../Screen.h"
+	"../Util.h"
+	"../unicode.h"
+	"Image.h"
+	"BMP.h"
+	"tga.h"
+	"jpg.h"
+	"gif.h"
+	"png.h"
+	"psd.h"
+	"stackblur.h"
+
+1289394613 k:\code\lcdmisc\src\images\tga.h
+	"Image.h"
+	"../ScriptValue.h"
+	<stdio.h>
+
+1289394613 k:\code\lcdmisc\src\images\jpg.h
+	"image.h"
+	"../ScriptValue.h"
+
+1289394613 k:\code\lcdmisc\src\images\png.h
+	"Image.h"
+	"../ScriptValue.h"
+
+1395093382 k:\code\lcdmisc\src\images\psd.h
+	"Image.h"
+	"../ScriptValue.h"
+
+1394994187 k:\code\lcdmisc\src\images\stackblur.h
+
+1289394613 source:k:\code\lcdmisc\src\images\inflate.cpp
+	"inflate.h"
+	"../malloc.h"
+
+1289394613 k:\code\lcdmisc\src\images\inflate.h
+	"..\global.h"
+	<malloc.h>
+
+1389482071 source:k:\code\lcdmisc\src\images\jpg.cpp
+	"jpg.h"
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"..\\malloc.h"
+
+1395915943 source:k:\code\lcdmisc\src\images\png.cpp
+	"png.h"
+	"inflate.h"
+	"../malloc.h"
+	<string.h>
+
+1395094058 source:k:\code\lcdmisc\src\images\psd.cpp
+	"psd.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"endianswap.h"
+
+1349788506 k:\code\lcdmisc\src\images\endianswap.h
+	"config.h"
+	<inttypes.h>
+	<stdint.h>
+
+1394963530 k:\code\lcdmisc\src\\config.h
+	<stdio.h>
+	<wchar.h>
+	<string.h>
+	<stdarg.h>
+	"ScriptValue.h"
+
+1394994062 source:k:\code\lcdmisc\src\images\stackblur.cpp
+	<stdlib.h>
+
+1289394613 source:k:\code\lcdmisc\src\images\tga.cpp
+	"tga.h"
+	"..\\malloc.h"
+	<string.h>
+
+1398322339 source:k:\code\lcdmisc\src\lcdmisc.cpp
+	<windows.h>
+	<dbt.h>
+	<shlobj.h>
+	<initguid.h>
+	"global.h"
+	"Device.h"
+	"http/httpGetPage.h"
+	"stringUtil.h"
+	"ScriptObjects/ScriptObjects.h"
+	"ScriptObjects/MediaFile.h"
+	"ScriptObjects/Socket.h"
+	"ScriptProcs/ScriptMisc.h"
+	"G15Util/G15HID.h"
+	"util.h"
+	"ScriptObjects/SysTrayIcon.h"
+	"plugin/plugins.h"
+	"Timer.h"
+	"Screen.h"
+	"Config.h"
+	"PerfMon.h"
+	"Network.h"
+	"ShortCut.h"
+	"vm.h"
+	"ScriptProcs/networking/ScriptIP.h"
+	"ScriptProcs/Event/Event.h"
+	"ScriptProcs/Event/Keyboard.h"
+	"ScriptProcs/Audio.h"
+	"Script.h"
+
+1289394613 k:\code\lcdmisc\src\scriptobjects\mediafile.h
+	"..\\ScriptValue.h"
+
+1394904934 k:\code\lcdmisc\src\scriptobjects\socket.h
+	"../ScriptValue.h"
+	"../vm.h"
+
+1397074664 k:\code\lcdmisc\src\scriptprocs\scriptmisc.h
+	"..\\ScriptValue.h"
+
+1389482809 k:\code\lcdmisc\src\scriptobjects\systrayicon.h
+	<stdlib.h>
+	"../ScriptValue.h"
+	"../Device.h"
+	"../unicode.h"
+
+1289394612 k:\code\lcdmisc\src\plugin\plugins.h
+	"../global.h"
+
+1289394613 k:\code\lcdmisc\src\perfmon.h
+	"ScriptValue.h"
+
+1289394613 k:\code\lcdmisc\src\shortcut.h
+	"global.h"
+
+1289394612 k:\code\lcdmisc\src\scriptprocs\networking\scriptip.h
+	"../../ScriptValue.h"
+
+1289394612 k:\code\lcdmisc\src\scriptprocs\event\keyboard.h
+	"../../ScriptValue.h"
+
+1573332701 source:k:\code\lcdmisc\src\malloc.cpp
+	<malloc.h>
+	"malloc.h"
+
+1389482093 source:k:\code\lcdmisc\src\network.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stringUtil.h"
+	"Network.h"
+	"malloc.h"
+	"Unicode.h"
+	<Ws2tcpip.h>
+
+1289394613 source:k:\code\lcdmisc\src\parser.cpp
+	"Parser.h"
+	"Tokenizer.h"
+	"malloc.h"
+	"config.h"
+
+1341864441 k:\code\lcdmisc\src\parser.h
+	"ScriptEnums.h"
+	<wtypes.h>
+
+1368612493 k:\code\lcdmisc\src\tokenizer.h
+	<wtypes.h>
+	"ScriptEnums.h"
+	"Unicode.h"
+
+1573093168 source:k:\code\lcdmisc\src\perfmon.cpp
+	"PerfMon.h"
+	"global.h"
+	<float.h>
+	"malloc.h"
+	"Unicode.h"
+	"Config.h"
+	<math.h>
+	<ntdddisk.h>
+	<winperf.h>
+	<Winsock2.h>
+	<Ws2tcpip.h>
+	<iphlpapi.h>
+
+1397143276 source:k:\code\lcdmisc\src\plugin\plugins.cpp
+	"../Global.h"
+	"../Device.h"
+	"plugin.h"
+	"plugins.h"
+	"../ScriptValue.h"
+	<stdio.h>
+
+1289394612 k:\code\lcdmisc\src\plugin\plugin.h
+	<windows.h>
+
+1396118998 source:k:\code\lcdmisc\src\screen.cpp
+	<stdlib.h>
+	<stdio.h>
+	"ScriptObjects/ScriptFont.h"
+	"Screen.h"
+	"Unicode.h"
+	"images/Images.h"
+	"stringUtil.h"
+	<math.h>
+	<xmmintrin.h>
+	<stdio.h>
+
+1389482115 k:\code\lcdmisc\src\scriptobjects\scriptfont.h
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"../global.h"
+	"../ScriptValue.h"
+	"../Images/image.h"
+
+1395835158 k:\code\lcdmisc\src\images\images.h
+	"Image.h"
+	"bmp.h"
+	"jpg.h"
+	"tga.h"
+	"png.h"
+	"psd.h"
+
+1397470413 source:k:\code\lcdmisc\src\script.cpp
+	"global.h"
+	"Script.h"
+	"Tokenizer.h"
+	"Parser.h"
+	"TempCode.h"
+	"GenCode.h"
+	"util.h"
+	"Config.h"
+	"vm.h"
+	"ScriptProcs\\ScriptProcs.h"
+	"ScriptObjects\\ScriptObjects.h"
+	"ScriptObjects\\WMI.h"
+	"unicode.h"
+	"ScriptValue.h"
+
+1289394612 k:\code\lcdmisc\src\scriptprocs\\scriptprocs.h
+
+1341862658 k:\code\lcdmisc\src\scriptobjects\\scriptobjects.h
+	"../ScriptValue.h"
+
+1289394613 k:\code\lcdmisc\src\scriptobjects\\wmi.h
+	"../ScriptValue.h"
+
+1389482123 source:k:\code\lcdmisc\src\scriptobjects\commandpromptprocess.cpp
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"CommandPromptProcess.h"
+	"../global.h"
+	<shellapi.h>
+	"../util.h"
+	"../stringUtil.h"
+	"../unicode.h"
+
+1289394613 k:\code\lcdmisc\src\scriptobjects\commandpromptprocess.h
+	"../ScriptValue.h"
+
+1397591370 source:k:\code\lcdmisc\src\scriptobjects\file.cpp
+	"../global.h"
+	<wchar.h>
+	"File.h"
+	"ScriptObjects.h"
+	"../util.h"
+	"../unicode.h"
+	"../malloc.h"
+
+1289394613 k:\code\lcdmisc\src\scriptobjects\file.h
+	"../ScriptValue.h"
+
+1394906562 source:k:\code\lcdmisc\src\scriptobjects\mediafile.cpp
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<strings.h>
+	<wchar.h>
+	"File.h"
+	"MediaFile.h"
+	"../global.h"
+	<mmreg.h>
+	<dshow.h>
+	<control.h>
+	<initguid.h>
+	<qnetwork.h>
+	"../malloc.h"
+	"../Unicode.h"
+	"../util.h"
+	"ScriptObjects.h"
+	"../SymbolTable.h"
+	"../ScriptProcs/Event/Event.h"
+	"math.h"
+
+1395137792 source:k:\code\lcdmisc\src\scriptobjects\miniobjects.cpp
+	"../global.h"
+	"MiniObjects.h"
+	"ScriptObjects.h"
+	"../util.h"
+	"../unicode.h"
+	"../malloc.h"
+	<devioctl.h>
+	<ntdddisk.h>
+	"../G15Util/G15Hid.h"
+	"../sdk/nvapi.h"
+
+1395925643 k:\code\lcdmisc\src\scriptobjects\miniobjects.h
+	"..\ScriptValue.h"
+
+1289394613 source:k:\code\lcdmisc\src\scriptobjects\mutablestring.cpp
+	"MutableString.h"
+	"../global.h"
+	"../unicode.h"
+	"ScriptObjects.h"
+
+1289394613 k:\code\lcdmisc\src\scriptobjects\mutablestring.h
+	"../ScriptValue.h"
+
+1289394613 source:k:\code\lcdmisc\src\scriptobjects\perfcounter.cpp
+	"PerfCounter.h"
+	"..\\perfMon.h"
+	"..\\malloc.h"
+	"ScriptObjects.h"
+
+1289394613 k:\code\lcdmisc\src\scriptobjects\perfcounter.h
+	"..\\ScriptValue.h"
+
+1289394613 k:\code\lcdmisc\src\\perfmon.h
+	"ScriptValue.h"
+
+1396111663 source:k:\code\lcdmisc\src\scriptobjects\scriptfont.cpp
+	"../global.h"
+	"../screen.h"
+	"ScriptFont.h"
+	"ScriptObjects.h"
+	"../unicode.h"
+	"../vm.h"
+	"../Config.h"
+	<stdio.h>
+
+1397084413 source:k:\code\lcdmisc\src\scriptobjects\scriptimage.cpp
+	"../global.h"
+	"../screen.h"
+	"ScriptImage.h"
+	"ScriptObjects.h"
+	"../unicode.h"
+	"../Images/bmp.h"
+	"../vm.h"
+
+1397083956 k:\code\lcdmisc\src\scriptobjects\scriptimage.h
+	"../ScriptValue.h"
+
+1397470974 source:k:\code\lcdmisc\src\scriptobjects\scriptobjects.cpp
+	"ScriptFont.h"
+	"ScriptObjects.h"
+	"..\malloc.h"
+	"..\vm.h"
+	"..\SymbolTable.h"
+	"..\Script.h"
+	"..\util.h"
+	"ScriptImage.h"
+	"File.h"
+	"PerfCounter.h"
+	"Socket.h"
+	"MediaFile.h"
+	"MiniObjects.h"
+	"SysTrayIcon.h"
+	"MutableString.h"
+	"../scriptprocs/serial.h"
+	"WMI.h"
+
+1397249280 k:\code\lcdmisc\src\scriptprocs\serial.h
+
+1289394613 k:\code\lcdmisc\src\scriptobjects\wmi.h
+	"../ScriptValue.h"
+
+1394909066 source:k:\code\lcdmisc\src\scriptobjects\socket.cpp
+	"../global.h"
+	<time.h>
+	"Socket.h"
+	"ScriptObjects.h"
+	"../Network.h"
+	"../Unicode.h"
+	"../util.h"
+	<ipexport.h>
+	<IcmpAPI.h>
+	<Ws2tcpip.h>
+	<ws2spi.h>
+
+1395437534 source:k:\code\lcdmisc\src\scriptobjects\systrayicon.cpp
+	"SysTrayIcon.h"
+	"../VM.h"
+	"../ScriptObjects/ScriptObjects.h"
+
+1289394613 source:k:\code\lcdmisc\src\scriptobjects\wmi.cpp
+	<stdlib.h>
+	"WMI.h"
+	"ScriptObjects.h"
+	"../global.h"
+	"../malloc.h"
+	<wbemidl.h>
+	"../unicode.h"
+	"../util.h"
+
+1398322930 source:k:\code\lcdmisc\src\scriptprocs\event\event.cpp
+	"../../Global.h"
+	"Event.h"
+	"../../ScriptObjects/ScriptObjects.h"
+
+1289394612 source:k:\code\lcdmisc\src\scriptprocs\event\keyboard.cpp
+	"../../global.h"
+	"Keyboard.h"
+	"../../Unicode.h"
+	"../../vm.h"
+	"../../Config.h"
+
+1289394612 source:k:\code\lcdmisc\src\scriptprocs\file.cpp
+	"File.h"
+	"../unicode.h"
+	"../global.h"
+	<malloc.h>
+
+1289394612 k:\code\lcdmisc\src\scriptprocs\file.h
+	"..\\ScriptValue.h"
+
+1394910458 source:k:\code\lcdmisc\src\scriptprocs\g15\g15script.cpp
+	"../../global.h"
+	"G15Script.h"
+	"../../G15Util/G15Hid.h"
+	"../../sdk/v3.01/lglcd.h"
+	"../../timer.h"
+
+1289394612 k:\code\lcdmisc\src\scriptprocs\g15\g15script.h
+	"../../ScriptValue.h"
+
+1289394612 source:k:\code\lcdmisc\src\scriptprocs\interface\monitorscript.cpp
+	"MonitorScript.h"
+	"../../Global.h"
+
+1289394612 k:\code\lcdmisc\src\scriptprocs\interface\monitorscript.h
+	"../../ScriptValue.h"
+
+1368612277 source:k:\code\lcdmisc\src\scriptprocs\interface\mousescript.cpp
+	"MouseScript.h"
+	"../../global.h"
+	"../../vm.h"
+	"../../unicode.h"
+
+1289394612 k:\code\lcdmisc\src\scriptprocs\interface\mousescript.h
+	"../../ScriptValue.h"
+
+1289394612 source:k:\code\lcdmisc\src\scriptprocs\interprocess\dde.cpp
+	"ScriptProcessManagement.h"
+	"../../global.h"
+	"../../unicode.h"
+	<DDEML.H>
+	"../../vm.h"
+
+1289394612 k:\code\lcdmisc\src\scriptprocs\interprocess\scriptprocessmanagement.h
+	"../../ScriptValue.h"
+
+1289394612 source:k:\code\lcdmisc\src\scriptprocs\interprocess\scriptdll.cpp
+	"../../global.h"
+	"ScriptDll.h"
+	"DllTypes.h"
+	"../../SymbolTable.h"
+	"../../unicode.h"
+	"../../Config.h"
+	"../../vm.h"
+
+1289394612 k:\code\lcdmisc\src\scriptprocs\interprocess\scriptdll.h
+	"../../ScriptValue.h"
+
+1289394612 k:\code\lcdmisc\src\scriptprocs\interprocess\dlltypes.h
+	<Windows.h>
+
+1289394612 source:k:\code\lcdmisc\src\scriptprocs\interprocess\scriptprocessmanagement.cpp
+	"ScriptProcessManagement.h"
+	"../../global.h"
+	<shellapi.h>
+	"../../util.h"
+	"../../stringUtil.h"
+	"../../unicode.h"
+
+1289394612 source:k:\code\lcdmisc\src\scriptprocs\interprocess\scriptsharedmemory.cpp
+	"ScriptSharedMemory.h"
+	"../../unicode.h"
+	"../../global.h"
+
+1289394612 k:\code\lcdmisc\src\scriptprocs\interprocess\scriptsharedmemory.h
+	"../../ScriptValue.h"
+
+1397082562 source:k:\code\lcdmisc\src\scriptprocs\interprocess\scriptwindowmanagement.cpp
+	"ScriptWindowManagement.h"
+	"../../global.h"
+	<Psapi.h>
+	"../../unicode.h"
+	"../../util.h"
+
+1397081975 k:\code\lcdmisc\src\scriptprocs\interprocess\scriptwindowmanagement.h
+	"../../ScriptValue.h"
+
+1289394612 source:k:\code\lcdmisc\src\scriptprocs\networking\scriptemail.cpp
+	"ScriptEmail.h"
+	"../../global.h"
+
+1289394612 k:\code\lcdmisc\src\scriptprocs\networking\scriptemail.h
+	"../../ScriptValue.h"
+
+1289394612 source:k:\code\lcdmisc\src\scriptprocs\networking\scriptip.cpp
+	"ScriptIP.h"
+	"../../config.h"
+	"../../http/httpGetPage.h"
+	"../../timer.h"
+	"../../stringUtil.h"
+
+1396108261 source:k:\code\lcdmisc\src\scriptprocs\scriptdrawing.cpp
+	"ScriptDrawing.h"
+	"../Screen.h"
+	"../ScriptObjects/ScriptFont.h"
+	"../Unicode.h"
+	"../malloc.h"
+	"../vm.h"
+	"Device.h"
+
+1395917917 k:\code\lcdmisc\src\scriptprocs\scriptdrawing.h
+	"..\\ScriptValue.h"
+
+1289394613 k:\code\lcdmisc\src\\device.h
+	"Images/Image.h"
+	"ScriptValue.h"
+	"Screen.h"
+
+1395430349 k:\code\lcdmisc\src\\images\image.h
+	"..\\ScriptValue.h"
+	<math.h>
+
+1573085544 k:\code\lcdmisc\src\\\scriptvalue.h
+	<wtypes.h>
+
+1395918521 k:\code\lcdmisc\src\\screen.h
+	"global.h"
+	"Images/image.h"
+
+1573091209 source:k:\code\lcdmisc\src\scriptprocs\scriptmisc.cpp
+	"ScriptMisc.h"
+	"..\\global.h"
+	"..\\vm.h"
+	"..\\SymbolTable.h"
+	"..\\unicode.h"
+	<Psapi.h>
+	"..\\util.h"
+	<math.h>
+	"../Config.h"
+	<ddraw.h>
+	<float.h>
+
+1397470301 k:\code\lcdmisc\src\\vm.h
+	"ScriptEnums.h"
+	"ScriptValue.h"
+	"SymbolTable.h"
+
+1289394613 k:\code\lcdmisc\src\\scriptenums.h
+
+1289394613 k:\code\lcdmisc\src\\symboltable.h
+	"ScriptValue.h"
+	"ScriptEnums.h"
+	"HashTable.h"
+	"malloc.h"
+	"stringUtil.h"
+
+1289394613 k:\code\lcdmisc\src\\hashtable.h
+	"ScriptValue.h"
+
+1289394613 k:\code\lcdmisc\src\\unicode.h
+
+1397141209 source:k:\code\lcdmisc\src\scriptprocs\scriptprocs.cpp
+	"..\\Script.h"
+	"..\\SymbolTable.h"
+	"ScriptDrawing.h"
+	"Networking/ScriptEmail.h"
+	"Networking/ScriptIP.h"
+	"ScriptMisc.h"
+	"ScriptObjects/ScriptImage.h"
+	"File.h"
+	"Time/ScriptTime.h"
+	"Time/ScriptTimer.h"
+	"Time/ScriptWait.h"
+	"Util/ScriptTypes.h"
+	"Util/ScriptStringParser.h"
+	"Util/RegExp.h"
+	"Util/BencodeScript.h"
+	"Util/Math.h"
+	"Util/List.h"
+	"InterProcess/ScriptWindowManagement.h"
+	"InterProcess/DDE.h"
+	"InterProcess/ScriptProcessManagement.h"
+	"InterProcess/ScriptSharedMemory.h"
+	"InterProcess/ScriptDll.h"
+	"Interface/MouseScript.h"
+	"Interface/MonitorScript.h"
+	"Event/Event.h"
+	"Event/Keyboard.h"
+	"Audio.h"
+
+1395767141 k:\code\lcdmisc\src\\script.h
+	"vm.h"
+	"SymbolTable.h"
+	"ScriptEnums.h"
+
+1397083956 k:\code\lcdmisc\src\\scriptobjects\scriptimage.h
+	"../ScriptValue.h"
+
+1289394612 k:\code\lcdmisc\src\scriptprocs\time\scripttime.h
+	"../../ScriptValue.h"
+
+1341867097 k:\code\lcdmisc\src\scriptprocs\time\scripttimer.h
+	"../../ScriptValue.h"
+
+1289394612 k:\code\lcdmisc\src\scriptprocs\time\scriptwait.h
+	"../../ScriptValue.h"
+
+1289394612 k:\code\lcdmisc\src\scriptprocs\util\scripttypes.h
+	"../../ScriptValue.h"
+
+1289394612 k:\code\lcdmisc\src\scriptprocs\util\scriptstringparser.h
+	"../../ScriptValue.h"
+
+1289394612 k:\code\lcdmisc\src\scriptprocs\util\regexp.h
+	"../../ScriptValue.h"
+
+1289394612 k:\code\lcdmisc\src\scriptprocs\util\bencodescript.h
+	"../../ScriptValue.h"
+
+1395179773 k:\code\lcdmisc\src\scriptprocs\util\math.h
+	"../../ScriptValue.h"
+
+1289394612 k:\code\lcdmisc\src\scriptprocs\util\list.h
+	"../../ScriptValue.h"
+
+1389486751 k:\code\lcdmisc\src\scriptprocs\interprocess\dde.h
+	"../../ScriptValue.h"
+	"../../vm.h"
+
+1398103442 source:k:\code\lcdmisc\src\scriptprocs\serial.cpp
+	"../global.h"
+	<wchar.h>
+	"../ScriptObjects/ScriptObjects.h"
+	"../util.h"
+	"../unicode.h"
+	"../malloc.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<sys/types.h>
+	<string.h>
+	<unistd.h>
+	<ctype.h>
+	<windows.h>
+
+1396859460 source:k:\code\lcdmisc\src\scriptprocs\time\scripttime.cpp
+	"ScriptTime.h"
+	<stdio.h>
+	<stdlib.h>
+	"../../Global.h"
+	"../../timer.h"
+	"../../malloc.h"
+	"../../stringUtil.h"
+	"../../Unicode.h"
+	"../../util.h"
+	<wctype.h>
+
+1289394612 source:k:\code\lcdmisc\src\scriptprocs\time\scripttimer.cpp
+	"ScriptTime.h"
+	"../../global.h"
+	"../../vm.h"
+	"../../Timer.h"
+	"../../malloc.h"
+	"../../ScriptObjects/ScriptObjects.h"
+
+1420121787 source:k:\code\lcdmisc\src\scriptprocs\time\scriptwait.cpp
+	"ScriptWait.h"
+	"../../global.h"
+	"../../vm.h"
+	"../../unicode.h"
+	<time.h>
+	"../../http/httpGetPage.h"
+	"../../ScriptObjects/ScriptObjects.h"
+
+1289394612 source:k:\code\lcdmisc\src\scriptprocs\util\bencodescript.cpp
+	<stdlib.h>
+	<stdio.h>
+	"BencodeScript.h"
+	"../../stringUtil.h"
+	"../../unicode.h"
+
+1289394612 source:k:\code\lcdmisc\src\scriptprocs\util\list.cpp
+	"List.h"
+	"../../vm.h"
+	"../../malloc.h"
+
+1395180079 source:k:\code\lcdmisc\src\scriptprocs\util\math.cpp
+	"Math.h"
+	"../../vm.h"
+	"../../util.h"
+	<math.h>
+
+1289394612 source:k:\code\lcdmisc\src\scriptprocs\util\regexp.cpp
+	"RegExp.h"
+	"../../malloc.h"
+	"../../stringUtil.h"
+	"../../Unicode.h"
+
+1395748885 source:k:\code\lcdmisc\src\scriptprocs\util\scriptstringparser.cpp
+	"ScriptStringParser.h"
+	"../../malloc.h"
+	"../../unicode.h"
+	"../../stringUtil.h"
+	"../../config.h"
+	<ctype.h>
+
+1397083706 source:k:\code\lcdmisc\src\scriptprocs\util\scripttypes.cpp
+	<stdlib.h>
+	"ScriptTypes.h"
+	"../../vm.h"
+	"../../ScriptObjects/ScriptObjects.h"
+
+1289394613 source:k:\code\lcdmisc\src\scriptvalue.cpp
+	"ScriptValue.h"
+	"malloc.h"
+	"stringUtil.h"
+	"script.h"
+	"unicode.h"
+	"ScriptObjects/ScriptObjects.h"
+	"vm.h"
+
+1289394613 source:k:\code\lcdmisc\src\shortcut.cpp
+	"ShortCut.h"
+	"Config.h"
+	"unicode.h"
+	"stringUtil.h"
+	<shellapi.h>
+	"malloc.h"
+	"vm.h"
+
+1397114059 source:k:\code\lcdmisc\src\stringutil.cpp
+	<stdio.h>
+	"stringUtil.h"
+	"malloc.h"
+	"unicode.h"
+	<ctype.h>
+
+1289394613 source:k:\code\lcdmisc\src\symboltable.cpp
+	"SymbolTable.h"
+	"stringUtil.h"
+	"malloc.h"
+
+1289394613 source:k:\code\lcdmisc\src\tempcode.cpp
+	"TempCode.h"
+	"vm.h"
+	"util.h"
+	"Script.h"
+	"Config.h"
+	"Parser.h"
+	"ScriptProcs/InterProcess/ScriptDll.h"
+	"ScriptObjects/ScriptObjects.h"
+	<math.h>
+	<stdarg.h>
+
+1573091469 source:k:\code\lcdmisc\src\timer.cpp
+	"http/httpGetPage.h"
+	"Timer.h"
+	<time.h>
+	"Config.h"
+	"global.h"
+	"malloc.h"
+
+1573088345 source:k:\code\lcdmisc\src\tokenizer.cpp
+	"Tokenizer.h"
+	"Global.h"
+	<limits.h>
+	<math.h>
+	<stdlib.h>
+	"stringUtil.h"
+	"malloc.h"
+	"unicode.h"
+	"config.h"
+	"script.h"
+
+1395748899 source:k:\code\lcdmisc\src\unicode.cpp
+	"unicode.h"
+	"malloc.h"
+	"stringUtil.h"
+	<stdio.h>
+
+1398321421 source:k:\code\lcdmisc\src\util.cpp
+	<windows.h>
+	<dbt.h>
+	<shlobj.h>
+	<initguid.h>
+	"util.h"
+	"unicode.h"
+	"global.h"
+	"stringUtil.h"
+	"malloc.h"
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<time.h>
+	<math.h>
+
+1289394613 source:k:\code\lcdmisc\src\vm.cpp
+	<assert.h>
+	<stdlib.h>
+	"vm.h"
+	"stringUtil.h"
+	"ScriptObjects/ScriptObjects.h"
+	"SymbolTable.h"
+	"ScriptProcs/InterProcess/ScriptDll.h"
+	"config.h"
+	"Config.h"
+
