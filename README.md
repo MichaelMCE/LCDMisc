@@ -4,14 +4,13 @@ LCD Miscellany 0.4.6 <br />
 LCD Miscellany is a tool allowing one to write scripts to display stuff on external displays or as desktop windows <br />
  <br />
 ![screenshots of app](./screenshots/171119_221042.png)
-![screenshots of app](./screenshots/control.png)
 ![screenshots of app](./screenshots/applauncher1.png)
 ![screenshots of app](./screenshots/mediaplayer_video.png)
 ![screenshots of app](./screenshots/weather.png)
 ![screenshots of app](./screenshots/status_aclock.png)
 ![screenshots of app](./screenshots/rss.png)
 ![screenshots of app](./screenshots/taskman.png)
-
+![screenshots of app](./screenshots/control.png)
 
 Changes: <br />
 
